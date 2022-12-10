@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QuPath on Mohammad Faseeh Ahmed</title>
+    <link>https://faseehahmed26.github.io/portfolio/tags/qupath/</link>
+    <description>Recent content in QuPath on Mohammad Faseeh Ahmed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Sep 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://faseehahmed26.github.io/portfolio/tags/qupath/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tubules Detection on Breast Carcinoma Whole Slide Images using Artificial Intelligence Deep Learning Model</title>
+      <link>https://faseehahmed26.github.io/portfolio/publications/tubules/</link>
+      <pubDate>Fri, 16 Sep 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://faseehahmed26.github.io/portfolio/publications/tubules/</guid>
+      <description>Publication overview We are presenting at John Hopkins Hospital, Baltimore, MD, USA at SIMMI-CMIMI22, International Conference On Machine Intelligence an Medical Imaging, &amp;ldquo;Tubules Detection on Breast Carcinoma Whole Slide Images using Artificial Intelligence Deep Learning Model&amp;rdquo;, An one of the critical biomarker in Nottingham Breast Cancer Grading.
+Tech Stack ● Image Preprocessing - QuPath, Groovy
+● Frontend - HistomicsUI(CADD4MBC)
+● Database - MongoDB
+● Deep learning Inference- R2U-Net
+● Deep learning training - Tensorflow, R2U-Net</description>
+    </item>
+    
+  </channel>
+</rss>

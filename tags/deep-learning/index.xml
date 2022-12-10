@@ -1,33 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep Learning on Faseeh Ahmed</title>
+    <title>Deep Learning on Mohammad Faseeh Ahmed</title>
     <link>https://faseehahmed26.github.io/portfolio/tags/deep-learning/</link>
-    <description>Recent content in Deep Learning on Faseeh Ahmed</description>
+    <description>Recent content in Deep Learning on Mohammad Faseeh Ahmed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Oct 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://faseehahmed26.github.io/portfolio/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analysis on Various Commodities </title>
-      <link>https://faseehahmed26.github.io/portfolio/post/commodity-management/</link>
+      <link>https://faseehahmed26.github.io/portfolio/projects/commodity-management/</link>
       <pubDate>Tue, 11 Oct 2022 11:25:05 -0400</pubDate>
       
-      <guid>https://faseehahmed26.github.io/portfolio/post/commodity-management/</guid>
-      <description>Project overview In this project learned about time series analysis using deep learning =, also learned how to built a scraper which can scrape data based on respective timeline provided and can give output in csv or excel file. improved my visualization skills using seaborn
-Analytic Insights From Last 5 Years
+      <guid>https://faseehahmed26.github.io/portfolio/projects/commodity-management/</guid>
+      <description>Project overview In this project I learned about the time series analysis using Deep Learning and also learned how to built a scraper which can scrape data, based on respective timeline provided and can give output in csv or an excel file. improved my visualization skills using seaborn and matplotlib.
+Analytical Insights From Last 5 Years
 ● Crude Oil prices is strongly correlated with Brent Oil and Natural Gas
 ● Crude Oil prices is positively correlated with Copper.</description>
     </item>
     
     <item>
+      <title>Web based Mitosis detection on Breast Cancer whole slide images using FasterRCNN and YOLOv5 </title>
+      <link>https://faseehahmed26.github.io/portfolio/publications/mitosis/</link>
+      <pubDate>Tue, 11 Oct 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://faseehahmed26.github.io/portfolio/publications/mitosis/</guid>
+      <description>Publication overview This paper was published by Science and Information Organization in International Journal of Advanced Computer Science Applications(IJACA), &amp;ldquo;Web based Mitosis detection on Breast Cancer whole slide images using FasterRCNN and YOLOv5&amp;rdquo;, It uses Mitosis which is one of the critical biomarker in Nottingham Breast Cancer Grading.
+Tech Stack ● Image Preprocessing - QuPath, Groovy
+● Frontend - HistomicsUI(CADD4MBC)
+● Database - MongoDB
+● Deep learning Inference- YOLOv5, FasterRCNN</description>
+    </item>
+    
+    <item>
+      <title>Tubules Detection on Breast Carcinoma Whole Slide Images using Artificial Intelligence Deep Learning Model</title>
+      <link>https://faseehahmed26.github.io/portfolio/publications/tubules/</link>
+      <pubDate>Fri, 16 Sep 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://faseehahmed26.github.io/portfolio/publications/tubules/</guid>
+      <description>Publication overview We are presenting at John Hopkins Hospital, Baltimore, MD, USA at SIMMI-CMIMI22, International Conference On Machine Intelligence an Medical Imaging, &amp;ldquo;Tubules Detection on Breast Carcinoma Whole Slide Images using Artificial Intelligence Deep Learning Model&amp;rdquo;, An one of the critical biomarker in Nottingham Breast Cancer Grading.
+Tech Stack ● Image Preprocessing - QuPath, Groovy
+● Frontend - HistomicsUI(CADD4MBC)
+● Database - MongoDB
+● Deep learning Inference- R2U-Net
+● Deep learning training - Tensorflow, R2U-Net</description>
+    </item>
+    
+    <item>
       <title>Beverage Management System</title>
-      <link>https://faseehahmed26.github.io/portfolio/post/beverage-management-system/</link>
+      <link>https://faseehahmed26.github.io/portfolio/projects/beverage-management-system/</link>
       <pubDate>Sun, 28 Aug 2022 11:25:05 -0400</pubDate>
       
-      <guid>https://faseehahmed26.github.io/portfolio/post/beverage-management-system/</guid>
-      <description>Project overview This web application aids in mobile inventory system management. The frontend of the mobile device shows a stream of things being displayed; a deep learning model uses this data to identify the objects and automatically update the inventory list&amp;rsquo;s frontend display with the most recent inventory count.
+      <guid>https://faseehahmed26.github.io/portfolio/projects/beverage-management-system/</guid>
+      <description>Project overview This Web App aids in mobile inventory management. The frontend of the mobile device shows a stream of things being displayed; a deep learning model uses this data to identify the objects and automatically updates the Inventory Database frontend display with the changes.
 ● Using state of the art Yolov5 model with detection speed as low as 5ms per frame.
-● Built the frontend using Streamlit.</description>
+● Built the frontend using Streamlit.
+● Using SQLite3 as a Database for managing inventory.</description>
     </item>
     
   </channel>

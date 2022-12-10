@@ -1,18 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Faseeh Ahmed</title>
+    <title>Tags on Mohammad Faseeh Ahmed</title>
     <link>https://faseehahmed26.github.io/portfolio/tags/</link>
-    <description>Recent content in Tags on Faseeh Ahmed</description>
+    <description>Recent content in Tags on Mohammad Faseeh Ahmed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Oct 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://faseehahmed26.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computer Vision</title>
+      <link>https://faseehahmed26.github.io/portfolio/tags/computer-vision/</link>
+      <pubDate>Tue, 11 Oct 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://faseehahmed26.github.io/portfolio/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Deep Learning</title>
       <link>https://faseehahmed26.github.io/portfolio/tags/deep-learning/</link>
       <pubDate>Tue, 11 Oct 2022 11:25:05 -0400</pubDate>
       
       <guid>https://faseehahmed26.github.io/portfolio/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detectron2</title>
+      <link>https://faseehahmed26.github.io/portfolio/tags/detectron2/</link>
+      <pubDate>Tue, 11 Oct 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://faseehahmed26.github.io/portfolio/tags/detectron2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FasterRCNN</title>
+      <link>https://faseehahmed26.github.io/portfolio/tags/fasterrcnn/</link>
+      <pubDate>Tue, 11 Oct 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://faseehahmed26.github.io/portfolio/tags/fasterrcnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HistomicsTK</title>
+      <link>https://faseehahmed26.github.io/portfolio/tags/histomicstk/</link>
+      <pubDate>Tue, 11 Oct 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://faseehahmed26.github.io/portfolio/tags/histomicstk/</guid>
       <description></description>
     </item>
     
@@ -31,6 +67,15 @@
       <pubDate>Tue, 11 Oct 2022 11:25:05 -0400</pubDate>
       
       <guid>https://faseehahmed26.github.io/portfolio/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PyTorch</title>
+      <link>https://faseehahmed26.github.io/portfolio/tags/pytorch/</link>
+      <pubDate>Tue, 11 Oct 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://faseehahmed26.github.io/portfolio/tags/pytorch/</guid>
       <description></description>
     </item>
     
@@ -62,20 +107,56 @@
     </item>
     
     <item>
-      <title>Computer Vision</title>
-      <link>https://faseehahmed26.github.io/portfolio/tags/computer-vision/</link>
-      <pubDate>Sun, 28 Aug 2022 11:25:05 -0400</pubDate>
+      <title>YOLOv5</title>
+      <link>https://faseehahmed26.github.io/portfolio/tags/yolov5/</link>
+      <pubDate>Tue, 11 Oct 2022 11:25:05 -0400</pubDate>
       
-      <guid>https://faseehahmed26.github.io/portfolio/tags/computer-vision/</guid>
+      <guid>https://faseehahmed26.github.io/portfolio/tags/yolov5/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>PyTorch</title>
-      <link>https://faseehahmed26.github.io/portfolio/tags/pytorch/</link>
-      <pubDate>Sun, 28 Aug 2022 11:25:05 -0400</pubDate>
+      <title>Groovy</title>
+      <link>https://faseehahmed26.github.io/portfolio/tags/groovy/</link>
+      <pubDate>Fri, 16 Sep 2022 11:25:05 -0400</pubDate>
       
-      <guid>https://faseehahmed26.github.io/portfolio/tags/pytorch/</guid>
+      <guid>https://faseehahmed26.github.io/portfolio/tags/groovy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HistomicsUI</title>
+      <link>https://faseehahmed26.github.io/portfolio/tags/histomicsui/</link>
+      <pubDate>Fri, 16 Sep 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://faseehahmed26.github.io/portfolio/tags/histomicsui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Horovod</title>
+      <link>https://faseehahmed26.github.io/portfolio/tags/horovod/</link>
+      <pubDate>Fri, 16 Sep 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://faseehahmed26.github.io/portfolio/tags/horovod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QuPath</title>
+      <link>https://faseehahmed26.github.io/portfolio/tags/qupath/</link>
+      <pubDate>Fri, 16 Sep 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://faseehahmed26.github.io/portfolio/tags/qupath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R2U-Net</title>
+      <link>https://faseehahmed26.github.io/portfolio/tags/r2u-net/</link>
+      <pubDate>Fri, 16 Sep 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://faseehahmed26.github.io/portfolio/tags/r2u-net/</guid>
       <description></description>
     </item>
     

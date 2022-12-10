@@ -7,17 +7,42 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://faseehahmed26.github.io/portfolio/post/</loc>
+    <loc>https://faseehahmed26.github.io/portfolio/projects/</loc>
     <lastmod>2022-12-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://faseehahmed26.github.io/portfolio/post/commodity-management/</loc>
+    <loc>https://faseehahmed26.github.io/portfolio/publications/</loc>
+    <lastmod>2022-12-02T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://faseehahmed26.github.io/portfolio/projects/commodity-management/</loc>
+    <lastmod>2022-10-11T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://faseehahmed26.github.io/portfolio/tags/computer-vision/</loc>
     <lastmod>2022-10-11T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://faseehahmed26.github.io/portfolio/tags/deep-learning/</loc>
+    <lastmod>2022-10-11T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://faseehahmed26.github.io/portfolio/tags/detectron2/</loc>
+    <lastmod>2022-10-11T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://faseehahmed26.github.io/portfolio/tags/fasterrcnn/</loc>
+    <lastmod>2022-10-11T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://faseehahmed26.github.io/portfolio/tags/histomicstk/</loc>
     <lastmod>2022-10-11T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -28,6 +53,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://faseehahmed26.github.io/portfolio/tags/python/</loc>
+    <lastmod>2022-10-11T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://faseehahmed26.github.io/portfolio/tags/pytorch/</loc>
     <lastmod>2022-10-11T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -47,22 +77,52 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://faseehahmed26.github.io/portfolio/publications/mitosis/</loc>
+    <lastmod>2022-10-11T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://faseehahmed26.github.io/portfolio/tags/web-scraping/</loc>
     <lastmod>2022-10-11T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://faseehahmed26.github.io/portfolio/post/beverage-management-system/</loc>
-    <lastmod>2022-08-28T11:25:05-04:00</lastmod>
+    <loc>https://faseehahmed26.github.io/portfolio/tags/yolov5/</loc>
+    <lastmod>2022-10-11T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://faseehahmed26.github.io/portfolio/tags/computer-vision/</loc>
-    <lastmod>2022-08-28T11:25:05-04:00</lastmod>
+    <loc>https://faseehahmed26.github.io/portfolio/tags/groovy/</loc>
+    <lastmod>2022-09-16T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://faseehahmed26.github.io/portfolio/tags/pytorch/</loc>
+    <loc>https://faseehahmed26.github.io/portfolio/tags/histomicsui/</loc>
+    <lastmod>2022-09-16T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://faseehahmed26.github.io/portfolio/tags/horovod/</loc>
+    <lastmod>2022-09-16T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://faseehahmed26.github.io/portfolio/tags/qupath/</loc>
+    <lastmod>2022-09-16T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://faseehahmed26.github.io/portfolio/tags/r2u-net/</loc>
+    <lastmod>2022-09-16T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://faseehahmed26.github.io/portfolio/publications/tubules/</loc>
+    <lastmod>2022-09-16T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://faseehahmed26.github.io/portfolio/projects/beverage-management-system/</loc>
     <lastmod>2022-08-28T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -77,7 +137,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://faseehahmed26.github.io/portfolio/post/kidney-disease-predictor/</loc>
+    <loc>https://faseehahmed26.github.io/portfolio/projects/kidney-disease-predictor/</loc>
     <lastmod>2022-05-13T11:15:58-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -102,7 +162,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://faseehahmed26.github.io/portfolio/post/covid19-bot/</loc>
+    <loc>https://faseehahmed26.github.io/portfolio/projects/covid19-bot/</loc>
     <lastmod>2022-04-18T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -117,7 +177,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://faseehahmed26.github.io/portfolio/post/car-price-predictor/</loc>
+    <loc>https://faseehahmed26.github.io/portfolio/projects/car-price-predictor/</loc>
     <lastmod>2022-02-11T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
