@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Faseeh Ahmed</title>
+    <link>https://faseehahmed26.github.io/faseeh_portfolio/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Faseeh Ahmed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 May 2022 11:15:58 -0400</lastBuildDate><atom:link href="https://faseehahmed26.github.io/faseeh_portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chronic Kidney Disease Predictor</title>
+      <link>https://faseehahmed26.github.io/faseeh_portfolio/post/kidney-disease-predictor/</link>
+      <pubDate>Fri, 13 May 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://faseehahmed26.github.io/faseeh_portfolio/post/kidney-disease-predictor/</guid>
+      <description>Project overview Chronic kidney disease (CKD) is a global health problem with high morbidity and mortality rate, and it induces other diseases. Since there are no obvious values during the early stages of CKD, patients often fail to notice the disease. Early detection of CKD enables patients to receive timely treatment to ameliorate the progression of this disease. Machine learning models can effectively aid clinicians achieve this goal due to their fast and accurate recognition performance.</description>
+    </item>
+    
+    <item>
+      <title>Car Price Predictor</title>
+      <link>https://faseehahmed26.github.io/faseeh_portfolio/post/car-price-predictor/</link>
+      <pubDate>Fri, 11 Feb 2022 11:14:48 -0400</pubDate>
+      
+      <guid>https://faseehahmed26.github.io/faseeh_portfolio/post/car-price-predictor/</guid>
+      <description>Project overview
+Car Price Prediction using Machine Learning is especially helpful when the vehicle is used and not coming direct from the factory. With increase in demand for used cars more and more vehicle buyers are finding alternatives of buying new cars. There is a need of accurate price prediction mechanism for the used cars. Prediction techniques of machine learning can be helpful in this regard.
+Tech Stack Front end: HTML, CSS, BootStrap Backend: Flask, Nodejs Languages: Python, Javascript Model : Random Forest Regression Ide: VS code Other libraries : Pandas, Numpy, Seaborn, Matplotlib, Sklearn Data set : https://www.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Scraping on Faseeh Ahmed</title>
+    <link>https://faseehahmed26.github.io/faseeh_portfolio/tags/web-scraping/</link>
+    <description>Recent content in Web Scraping on Faseeh Ahmed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Oct 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://faseehahmed26.github.io/faseeh_portfolio/tags/web-scraping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analysis on Various Commodities </title>
+      <link>https://faseehahmed26.github.io/faseeh_portfolio/post/commodity-management/</link>
+      <pubDate>Tue, 11 Oct 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://faseehahmed26.github.io/faseeh_portfolio/post/commodity-management/</guid>
+      <description>Project overview In this project learned about time series analysis using deep learning =, also learned how to built a scraper which can scrape data based on respective timeline provided and can give output in csv or excel file. improved my visualization skills using seaborn
+Analytic Insights From Last 5 Years
+● Crude Oil prices is strongly correlated with Brent Oil and Natural Gas
+● Crude Oil prices is positively correlated with Copper.</description>
+    </item>
+    
+  </channel>
+</rss>

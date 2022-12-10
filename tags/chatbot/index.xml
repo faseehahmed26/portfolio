@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chatbot on Faseeh Ahmed</title>
+    <link>https://faseehahmed26.github.io/faseeh_portfolio/tags/chatbot/</link>
+    <description>Recent content in Chatbot on Faseeh Ahmed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Apr 2022 11:14:48 -0400</lastBuildDate><atom:link href="https://faseehahmed26.github.io/faseeh_portfolio/tags/chatbot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Covid19 Bot</title>
+      <link>https://faseehahmed26.github.io/faseeh_portfolio/post/covid19-bot/</link>
+      <pubDate>Mon, 18 Apr 2022 11:14:48 -0400</pubDate>
+      
+      <guid>https://faseehahmed26.github.io/faseeh_portfolio/post/covid19-bot/</guid>
+      <description>Project overview Chatbot is a computer program designed to simulate conversation with human users, especially over the internet. Simple chatbots work based on pre-written keywords that they understand, each of these commands must be written by the developer separately using regular expressions or other form of string analysis, if the user has asked a question without using a single keyword the bot cannot understand it and as a rule responds with default messages.</description>
+    </item>
+    
+  </channel>
+</rss>

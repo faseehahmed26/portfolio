@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web App on Faseeh Ahmed</title>
+    <link>https://faseehahmed26.github.io/faseeh_portfolio/tags/web-app/</link>
+    <description>Recent content in Web App on Faseeh Ahmed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Aug 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://faseehahmed26.github.io/faseeh_portfolio/tags/web-app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beverage Management System</title>
+      <link>https://faseehahmed26.github.io/faseeh_portfolio/post/beverage-management-system/</link>
+      <pubDate>Sun, 28 Aug 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://faseehahmed26.github.io/faseeh_portfolio/post/beverage-management-system/</guid>
+      <description>Project overview This web application aids in mobile inventory system management. The frontend of the mobile device shows a stream of things being displayed; a deep learning model uses this data to identify the objects and automatically update the inventory list&amp;rsquo;s frontend display with the most recent inventory count.
+● Using state of the art Yolov5 model with detection speed as low as 5ms per frame.
+● Built the frontend using Streamlit.</description>
+    </item>
+    
+    <item>
+      <title>Chronic Kidney Disease Predictor</title>
+      <link>https://faseehahmed26.github.io/faseeh_portfolio/post/kidney-disease-predictor/</link>
+      <pubDate>Fri, 13 May 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://faseehahmed26.github.io/faseeh_portfolio/post/kidney-disease-predictor/</guid>
+      <description>Project overview Chronic kidney disease (CKD) is a global health problem with high morbidity and mortality rate, and it induces other diseases. Since there are no obvious values during the early stages of CKD, patients often fail to notice the disease. Early detection of CKD enables patients to receive timely treatment to ameliorate the progression of this disease. Machine learning models can effectively aid clinicians achieve this goal due to their fast and accurate recognition performance.</description>
+    </item>
+    
+  </channel>
+</rss>
