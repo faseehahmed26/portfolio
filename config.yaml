@@ -21,14 +21,18 @@ menu:
       name: Experience
       url: /experience
       weight: 40
+    - identifier: publications
+      name: Publications
+      url: /publications
+      weight: 50
     - identifier: search
       name: Search
       url: /search
-      weight: 50
+      weight: 60
     - identifier: tags
       name: Tags
       url: /tags
-      weight: 60
+      weight: 70
     # - identifier: notes
     #   name: Notes
     #   url: /notes
@@ -45,7 +49,8 @@ params:
   # for enchanced SEO
   env: production
 
-  # Home Page
+  
+  # # Home Page
   profileMode:
     enabled: true
     title: "Faseeh Ahmed Mohammad"

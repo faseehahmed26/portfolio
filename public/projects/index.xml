@@ -2,151 +2,151 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Faseeh Ahmed Mohammad</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>http://localhost:1313/portfolio/projects/</link>
     <description>Recent content in Projects on Faseeh Ahmed Mohammad</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://localhost:1313/portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prompt Manager: Automate Your Prompt Workflow</title>
-      <link>http://localhost:1313/projects/prompt-manager/</link>
+      <link>http://localhost:1313/portfolio/projects/prompt-manager/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/prompt-manager/</guid>
+      <guid>http://localhost:1313/portfolio/projects/prompt-manager/</guid>
       <description>A lightweight Python library for efficient prompt management, version control, and rapid prototyping for AI applications.</description>
     </item>
     
     <item>
       <title>Telco Customer Churn Project</title>
-      <link>http://localhost:1313/projects/telco-customer-churn/</link>
+      <link>http://localhost:1313/portfolio/projects/telco-customer-churn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/telco-customer-churn/</guid>
+      <guid>http://localhost:1313/portfolio/projects/telco-customer-churn/</guid>
       <description>An end-to-end machine learning solution that predicts customer churn and demonstrates skills in data engineering, model evaluation, and automated deployment using MLflow, Docker, AWS CICD, and GitHub Actions.</description>
     </item>
     
     <item>
       <title>Airline Passenger Forecasting Time Series Forecasting</title>
-      <link>http://localhost:1313/projects/airline-passenger-forecasting/</link>
+      <link>http://localhost:1313/portfolio/projects/airline-passenger-forecasting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/airline-passenger-forecasting/</guid>
+      <guid>http://localhost:1313/portfolio/projects/airline-passenger-forecasting/</guid>
       <description>Demonstrating ARIMA &amp;amp; SARIMA forecasting on airline passengers and Tesla stock data.</description>
     </item>
     
     <item>
       <title>Chronic Kidney Disease Predictor</title>
-      <link>http://localhost:1313/projects/chronic-kidney/</link>
+      <link>http://localhost:1313/portfolio/projects/chronic-kidney/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/chronic-kidney/</guid>
+      <guid>http://localhost:1313/portfolio/projects/chronic-kidney/</guid>
       <description>A MERN stack application for early CKD detection using machine learning</description>
     </item>
     
     <item>
       <title>COVID-19 Bot</title>
-      <link>http://localhost:1313/projects/covid-19-bot/</link>
+      <link>http://localhost:1313/portfolio/projects/covid-19-bot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/covid-19-bot/</guid>
+      <guid>http://localhost:1313/portfolio/projects/covid-19-bot/</guid>
       <description>AI-powered Telegram chatbot for pandemic information and assistance</description>
     </item>
     
     <item>
       <title>Beverage Management System</title>
-      <link>http://localhost:1313/projects/beverage-managment-system/</link>
+      <link>http://localhost:1313/portfolio/projects/beverage-managment-system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/beverage-managment-system/</guid>
+      <guid>http://localhost:1313/portfolio/projects/beverage-managment-system/</guid>
       <description>A real-time inventory tracking system using YOLOv5 and Streamlit</description>
     </item>
     
     <item>
       <title>NutriPedia - Food Recognition &amp; Calorie Estimation</title>
-      <link>http://localhost:1313/projects/nutripedia/</link>
+      <link>http://localhost:1313/portfolio/projects/nutripedia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/nutripedia/</guid>
+      <guid>http://localhost:1313/portfolio/projects/nutripedia/</guid>
       <description>An AI-powered food recognition system with calorie estimation</description>
     </item>
     
     <item>
       <title>Car Price Predictor</title>
-      <link>http://localhost:1313/projects/second-hand-car/</link>
+      <link>http://localhost:1313/portfolio/projects/second-hand-car/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/second-hand-car/</guid>
+      <guid>http://localhost:1313/portfolio/projects/second-hand-car/</guid>
       <description>A machine learning application for used car price estimation</description>
     </item>
     
     <item>
       <title>Analysis on Various Commodities</title>
-      <link>http://localhost:1313/projects/commodities/</link>
+      <link>http://localhost:1313/portfolio/projects/commodities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/commodities/</guid>
+      <guid>http://localhost:1313/portfolio/projects/commodities/</guid>
       <description>Time series analysis and prediction using LSTM networks</description>
     </item>
     
     <item>
       <title>Bollywood Movie Recommender System</title>
-      <link>http://localhost:1313/projects/bollywood-movie-recommender/</link>
+      <link>http://localhost:1313/portfolio/projects/bollywood-movie-recommender/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/bollywood-movie-recommender/</guid>
+      <guid>http://localhost:1313/portfolio/projects/bollywood-movie-recommender/</guid>
       <description>Web Scraping &amp;amp; Data Pipeline for IMDB Movie Analysis</description>
     </item>
     
     <item>
       <title>Flight Fare Predictor</title>
-      <link>http://localhost:1313/projects/flight-price-predictor/</link>
+      <link>http://localhost:1313/portfolio/projects/flight-price-predictor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/flight-price-predictor/</guid>
+      <guid>http://localhost:1313/portfolio/projects/flight-price-predictor/</guid>
       <description>Machine learning system for predicting flight prices based on travel details</description>
     </item>
     
     <item>
       <title>World Bank Projects Analysis</title>
-      <link>http://localhost:1313/projects/world-bank-project-analysis/</link>
+      <link>http://localhost:1313/portfolio/projects/world-bank-project-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/world-bank-project-analysis/</guid>
+      <guid>http://localhost:1313/portfolio/projects/world-bank-project-analysis/</guid>
       <description>Predictive Modeling for Project Success Factors</description>
     </item>
     
     <item>
       <title>Capuchin Bird Audio Classifier</title>
-      <link>http://localhost:1313/projects/capuchin-audio-classifier/</link>
+      <link>http://localhost:1313/portfolio/projects/capuchin-audio-classifier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/capuchin-audio-classifier/</guid>
+      <guid>http://localhost:1313/portfolio/projects/capuchin-audio-classifier/</guid>
       <description>Deep learning model for detecting Capuchin bird calls in forest recordings</description>
     </item>
     
     <item>
       <title>IPL First Innings Score Predictor</title>
-      <link>http://localhost:1313/projects/ipl-first-inning/</link>
+      <link>http://localhost:1313/portfolio/projects/ipl-first-inning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/ipl-first-inning/</guid>
+      <guid>http://localhost:1313/portfolio/projects/ipl-first-inning/</guid>
       <description>Machine Learning model to predict cricket match scores using historical data</description>
     </item>
     
     <item>
       <title>Number Plate Detection &amp; Recognition</title>
-      <link>http://localhost:1313/projects/number-plate-detection/</link>
+      <link>http://localhost:1313/portfolio/projects/number-plate-detection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/number-plate-detection/</guid>
+      <guid>http://localhost:1313/portfolio/projects/number-plate-detection/</guid>
       <description>Real-time license plate detection and OCR system using TensorFlow Object Detection API</description>
     </item>
     
     <item>
       <title>Synthetic Anime Data Generator</title>
-      <link>http://localhost:1313/projects/synthetic-anime-data-generator/</link>
+      <link>http://localhost:1313/portfolio/projects/synthetic-anime-data-generator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/synthetic-anime-data-generator/</guid>
+      <guid>http://localhost:1313/portfolio/projects/synthetic-anime-data-generator/</guid>
       <description>Generated diverse anime character images using DC-GAN architecture</description>
     </item>
     

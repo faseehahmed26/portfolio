@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Data Science on Faseeh Ahmed Mohammad</title>
-    <link>http://localhost:1313/tags/data-science/</link>
+    <link>http://localhost:1313/portfolio/tags/data-science/</link>
     <description>Recent content in Data Science on Faseeh Ahmed Mohammad</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://localhost:1313/portfolio/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Telco Customer Churn Project</title>
-      <link>http://localhost:1313/projects/telco-customer-churn/</link>
+      <link>http://localhost:1313/portfolio/projects/telco-customer-churn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/telco-customer-churn/</guid>
+      <guid>http://localhost:1313/portfolio/projects/telco-customer-churn/</guid>
       <description>An end-to-end machine learning solution that predicts customer churn and demonstrates skills in data engineering, model evaluation, and automated deployment using MLflow, Docker, AWS CICD, and GitHub Actions.</description>
     </item>
     
     <item>
       <title>R&amp;D Data Governance Intern</title>
-      <link>http://localhost:1313/experience/daiichi-sankyo/</link>
+      <link>http://localhost:1313/portfolio/experience/daiichi-sankyo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experience/daiichi-sankyo/</guid>
+      <guid>http://localhost:1313/portfolio/experience/daiichi-sankyo/</guid>
       <description>Daiichi Sankyo Inc. | Basking Ridge, NJ</description>
     </item>
     
     <item>
       <title>Teaching Assistant - Machine Learning</title>
-      <link>http://localhost:1313/experience/rit_1/</link>
+      <link>http://localhost:1313/portfolio/experience/rit_1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experience/rit_1/</guid>
+      <guid>http://localhost:1313/portfolio/experience/rit_1/</guid>
       <description>Rochester Institute of Technology | Rochester, NY</description>
     </item>
     

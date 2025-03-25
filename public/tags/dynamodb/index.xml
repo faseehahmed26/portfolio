@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>DynamoDB on Faseeh Ahmed Mohammad</title>
-    <link>http://localhost:1313/tags/dynamodb/</link>
+    <link>http://localhost:1313/portfolio/tags/dynamodb/</link>
     <description>Recent content in DynamoDB on Faseeh Ahmed Mohammad</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/tags/dynamodb/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://localhost:1313/portfolio/tags/dynamodb/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Machine Learning Engineer</title>
-      <link>http://localhost:1313/experience/wlr/</link>
+      <link>http://localhost:1313/portfolio/experience/wlr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experience/wlr/</guid>
+      <guid>http://localhost:1313/portfolio/experience/wlr/</guid>
       <description>White Label Resell | Los Angeles, CA</description>
     </item>
     

@@ -2,320 +2,342 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/projects/prompt-manager/</loc>
+    <loc>http://localhost:1313/portfolio/projects/prompt-manager/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/telco-customer-churn/</loc>
+    <loc>http://localhost:1313/portfolio/projects/telco-customer-churn/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/airline-passenger-forecasting/</loc>
+    <loc>http://localhost:1313/portfolio/projects/airline-passenger-forecasting/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/chronic-kidney/</loc>
+    <loc>http://localhost:1313/portfolio/projects/chronic-kidney/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/covid-19-bot/</loc>
+    <loc>http://localhost:1313/portfolio/projects/covid-19-bot/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/beverage-managment-system/</loc>
+    <loc>http://localhost:1313/portfolio/projects/beverage-managment-system/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/nutripedia/</loc>
+    <loc>http://localhost:1313/portfolio/projects/nutripedia/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/second-hand-car/</loc>
+    <loc>http://localhost:1313/portfolio/projects/second-hand-car/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/commodities/</loc>
+    <loc>http://localhost:1313/portfolio/projects/commodities/</loc>
   </url><url>
-    <loc>http://localhost:1313/experience/daiichi-sankyo/</loc>
+    <loc>http://localhost:1313/portfolio/experience/daiichi-sankyo/</loc>
   </url><url>
-    <loc>http://localhost:1313/experience/rit/</loc>
+    <loc>http://localhost:1313/portfolio/publications/tubules-detection/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/bollywood-movie-recommender/</loc>
+    <loc>http://localhost:1313/portfolio/experience/rit/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/flight-price-predictor/</loc>
+    <loc>http://localhost:1313/portfolio/publications/mitosis-detection/</loc>
   </url><url>
-    <loc>http://localhost:1313/experience/rit_1/</loc>
+    <loc>http://localhost:1313/portfolio/projects/bollywood-movie-recommender/</loc>
   </url><url>
-    <loc>http://localhost:1313/experience/seocontent-ai/</loc>
+    <loc>http://localhost:1313/portfolio/projects/flight-price-predictor/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/world-bank-project-analysis/</loc>
+    <loc>http://localhost:1313/portfolio/experience/rit_1/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/capuchin-audio-classifier/</loc>
+    <loc>http://localhost:1313/portfolio/experience/seocontent-ai/</loc>
   </url><url>
-    <loc>http://localhost:1313/experience/wlr/</loc>
+    <loc>http://localhost:1313/portfolio/projects/world-bank-project-analysis/</loc>
   </url><url>
-    <loc>http://localhost:1313/experience/digital-clinics-research-and-services/</loc>
+    <loc>http://localhost:1313/portfolio/projects/capuchin-audio-classifier/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/ipl-first-inning/</loc>
+    <loc>http://localhost:1313/portfolio/experience/wlr/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/number-plate-detection/</loc>
+    <loc>http://localhost:1313/portfolio/experience/digital-clinics-research-and-services/</loc>
   </url><url>
-    <loc>http://localhost:1313/experience/edgeforce-solutions/</loc>
+    <loc>http://localhost:1313/portfolio/projects/ipl-first-inning/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/synthetic-anime-data-generator/</loc>
+    <loc>http://localhost:1313/portfolio/projects/number-plate-detection/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/ai/</loc>
+    <loc>http://localhost:1313/portfolio/experience/edgeforce-solutions/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/ai-infrastructure/</loc>
+    <loc>http://localhost:1313/portfolio/projects/synthetic-anime-data-generator/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/api-development/</loc>
+    <loc>http://localhost:1313/portfolio/tags/ai/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/api-integration/</loc>
+    <loc>http://localhost:1313/portfolio/tags/ai-infrastructure/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/arima/</loc>
+    <loc>http://localhost:1313/portfolio/tags/api-development/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/audio-classification/</loc>
+    <loc>http://localhost:1313/portfolio/tags/api-integration/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/audio-processing/</loc>
+    <loc>http://localhost:1313/portfolio/tags/arima/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/automation/</loc>
+    <loc>http://localhost:1313/portfolio/tags/audio-classification/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/aws/</loc>
+    <loc>http://localhost:1313/portfolio/tags/audio-processing/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/beautifulsoup/</loc>
+    <loc>http://localhost:1313/portfolio/tags/automation/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/bert/</loc>
+    <loc>http://localhost:1313/portfolio/tags/aws/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/portfolio/tags/beautifulsoup/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/chatbot/</loc>
+    <loc>http://localhost:1313/portfolio/tags/bert/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/ci/cd/</loc>
+    <loc>http://localhost:1313/portfolio/tags/cancer-detection/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/classification/</loc>
+    <loc>http://localhost:1313/portfolio/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/cloud-computing/</loc>
+    <loc>http://localhost:1313/portfolio/tags/chatbot/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/cnn/</loc>
+    <loc>http://localhost:1313/portfolio/tags/ci/cd/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/computer-vision/</loc>
+    <loc>http://localhost:1313/portfolio/tags/classification/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/content-generation/</loc>
+    <loc>http://localhost:1313/portfolio/tags/cloud-computing/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/cuda/</loc>
+    <loc>http://localhost:1313/portfolio/tags/cnn/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/customer-analytics/</loc>
+    <loc>http://localhost:1313/portfolio/tags/computer-vision/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/data-analysis/</loc>
+    <loc>http://localhost:1313/portfolio/tags/content-generation/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/data-cleaning/</loc>
+    <loc>http://localhost:1313/portfolio/tags/cuda/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/data-collection/</loc>
+    <loc>http://localhost:1313/portfolio/tags/customer-analytics/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/data-engineering/</loc>
+    <loc>http://localhost:1313/portfolio/tags/data-analysis/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/data-generation/</loc>
+    <loc>http://localhost:1313/portfolio/tags/data-cleaning/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/data-pipeline/</loc>
+    <loc>http://localhost:1313/portfolio/tags/data-collection/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/data-pipelines/</loc>
+    <loc>http://localhost:1313/portfolio/tags/data-engineering/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/data-science/</loc>
+    <loc>http://localhost:1313/portfolio/tags/data-generation/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/data-visualization/</loc>
+    <loc>http://localhost:1313/portfolio/tags/data-pipeline/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/deep-learning/</loc>
+    <loc>http://localhost:1313/portfolio/tags/data-pipelines/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/detectron2/</loc>
+    <loc>http://localhost:1313/portfolio/tags/data-science/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/developer-tools/</loc>
+    <loc>http://localhost:1313/portfolio/tags/data-visualization/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/dialogflow/</loc>
+    <loc>http://localhost:1313/portfolio/tags/deep-learning/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/distributed-computing/</loc>
+    <loc>http://localhost:1313/portfolio/tags/detectron2/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/distributed-systems/</loc>
+    <loc>http://localhost:1313/portfolio/tags/developer-tools/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/docker/</loc>
+    <loc>http://localhost:1313/portfolio/tags/dialogflow/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/dynamodb/</loc>
+    <loc>http://localhost:1313/portfolio/tags/distributed-computing/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/easyocr/</loc>
+    <loc>http://localhost:1313/portfolio/tags/distributed-systems/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/eda/</loc>
+    <loc>http://localhost:1313/portfolio/tags/distributed-training/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/education/</loc>
+    <loc>http://localhost:1313/portfolio/tags/docker/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/etl/</loc>
+    <loc>http://localhost:1313/portfolio/tags/dynamodb/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/etl-pipeline/</loc>
+    <loc>http://localhost:1313/portfolio/tags/easyocr/</loc>
   </url><url>
-    <loc>http://localhost:1313/experience/</loc>
+    <loc>http://localhost:1313/portfolio/tags/eda/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/f1-score/</loc>
+    <loc>http://localhost:1313/portfolio/tags/education/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/portfolio/tags/etl/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/faster-r-cnn/</loc>
+    <loc>http://localhost:1313/portfolio/tags/etl-pipeline/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/feature-engineering/</loc>
+    <loc>http://localhost:1313/portfolio/experience/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/feddisco/</loc>
+    <loc>http://localhost:1313/portfolio/tags/f1-score/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/federated-learning/</loc>
+    <loc>http://localhost:1313/portfolio/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/fine-tuning/</loc>
+    <loc>http://localhost:1313/portfolio/tags/faster-r-cnn/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/flask/</loc>
+    <loc>http://localhost:1313/portfolio/tags/fasterrcnn/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/food-recognition/</loc>
+    <loc>http://localhost:1313/portfolio/tags/feature-engineering/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/forecasting/</loc>
+    <loc>http://localhost:1313/portfolio/tags/feddisco/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/gan/</loc>
+    <loc>http://localhost:1313/portfolio/tags/federated-learning/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/genai/</loc>
+    <loc>http://localhost:1313/portfolio/tags/fine-tuning/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/google-cloud/</loc>
+    <loc>http://localhost:1313/portfolio/tags/flask/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/grpc/</loc>
+    <loc>http://localhost:1313/portfolio/tags/food-recognition/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/healthcare/</loc>
+    <loc>http://localhost:1313/portfolio/tags/forecasting/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/hyperparameter-tuning/</loc>
+    <loc>http://localhost:1313/portfolio/tags/gan/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/image-processing/</loc>
+    <loc>http://localhost:1313/portfolio/tags/genai/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/imbalanced-data/</loc>
+    <loc>http://localhost:1313/portfolio/tags/google-cloud/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/imdb-api/</loc>
+    <loc>http://localhost:1313/portfolio/tags/groovy/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/inception-v3/</loc>
+    <loc>http://localhost:1313/portfolio/tags/grpc/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/inventory-management/</loc>
+    <loc>http://localhost:1313/portfolio/tags/healthcare/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/javascript/</loc>
+    <loc>http://localhost:1313/portfolio/tags/histomicstk/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/keras/</loc>
+    <loc>http://localhost:1313/portfolio/tags/histomicsui/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/lambda/</loc>
+    <loc>http://localhost:1313/portfolio/tags/horovod/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/lasso-regression/</loc>
+    <loc>http://localhost:1313/portfolio/tags/hyperparameter-tuning/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/llm/</loc>
+    <loc>http://localhost:1313/portfolio/tags/image-processing/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/llms/</loc>
+    <loc>http://localhost:1313/portfolio/tags/imbalanced-data/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/lstm/</loc>
+    <loc>http://localhost:1313/portfolio/tags/imdb-api/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/machine-learning/</loc>
+    <loc>http://localhost:1313/portfolio/tags/inception-v3/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/mask-r-cnn/</loc>
+    <loc>http://localhost:1313/portfolio/tags/inventory-management/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/medical-imaging/</loc>
+    <loc>http://localhost:1313/portfolio/tags/javascript/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/mentoring/</loc>
+    <loc>http://localhost:1313/portfolio/tags/keras/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/mern-stack/</loc>
+    <loc>http://localhost:1313/portfolio/tags/lambda/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/microservices/</loc>
+    <loc>http://localhost:1313/portfolio/tags/lasso-regression/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/mlops/</loc>
+    <loc>http://localhost:1313/portfolio/tags/llm/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/model-deployment/</loc>
+    <loc>http://localhost:1313/portfolio/tags/llms/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/model-optimization/</loc>
+    <loc>http://localhost:1313/portfolio/tags/lstm/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/mongodb/</loc>
+    <loc>http://localhost:1313/portfolio/tags/machine-learning/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/movie-recommendation/</loc>
+    <loc>http://localhost:1313/portfolio/tags/mask-r-cnn/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/neural-networks/</loc>
+    <loc>http://localhost:1313/portfolio/tags/medical-imaging/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/nlp/</loc>
+    <loc>http://localhost:1313/portfolio/tags/mentoring/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/nutrition/</loc>
+    <loc>http://localhost:1313/portfolio/tags/mern-stack/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/object-detection/</loc>
+    <loc>http://localhost:1313/portfolio/tags/microservices/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/ocr/</loc>
+    <loc>http://localhost:1313/portfolio/tags/mlops/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/opencv/</loc>
+    <loc>http://localhost:1313/portfolio/tags/model-deployment/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/pandas/</loc>
+    <loc>http://localhost:1313/portfolio/tags/model-optimization/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/pickle/</loc>
+    <loc>http://localhost:1313/portfolio/tags/mongodb/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/predictive-analytics/</loc>
+    <loc>http://localhost:1313/portfolio/tags/movie-recommendation/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/productivity/</loc>
+    <loc>http://localhost:1313/portfolio/tags/neural-networks/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://localhost:1313/portfolio/tags/nlp/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/prompt-management/</loc>
+    <loc>http://localhost:1313/portfolio/tags/nutrition/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>http://localhost:1313/portfolio/tags/object-detection/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/pytorch/</loc>
+    <loc>http://localhost:1313/portfolio/tags/ocr/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/qupath/</loc>
+    <loc>http://localhost:1313/portfolio/tags/opencv/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/rag/</loc>
+    <loc>http://localhost:1313/portfolio/tags/pandas/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/random-forest/</loc>
+    <loc>http://localhost:1313/portfolio/tags/pickle/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/react/</loc>
+    <loc>http://localhost:1313/portfolio/tags/predictive-analytics/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/react-native/</loc>
+    <loc>http://localhost:1313/portfolio/tags/productivity/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/real-time-systems/</loc>
+    <loc>http://localhost:1313/portfolio/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/redshift/</loc>
+    <loc>http://localhost:1313/portfolio/tags/prompt-management/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/regression/</loc>
+    <loc>http://localhost:1313/portfolio/publications/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/ridge-regression/</loc>
+    <loc>http://localhost:1313/portfolio/tags/python/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/sarima/</loc>
+    <loc>http://localhost:1313/portfolio/tags/pytorch/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/scikit-learn/</loc>
+    <loc>http://localhost:1313/portfolio/tags/qupath/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/seaborn/</loc>
+    <loc>http://localhost:1313/portfolio/tags/r2u-net/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:1313/portfolio/tags/rag/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/signal-processing/</loc>
+    <loc>http://localhost:1313/portfolio/tags/random-forest/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/software-engineering/</loc>
+    <loc>http://localhost:1313/portfolio/tags/react/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/spectrograms/</loc>
+    <loc>http://localhost:1313/portfolio/tags/react-native/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/sports-analytics/</loc>
+    <loc>http://localhost:1313/portfolio/tags/real-time-systems/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/sql/</loc>
+    <loc>http://localhost:1313/portfolio/tags/redshift/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/sqlite/</loc>
+    <loc>http://localhost:1313/portfolio/tags/regression/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/ssd-mobilenet/</loc>
+    <loc>http://localhost:1313/portfolio/tags/ridge-regression/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/statistical-modeling/</loc>
+    <loc>http://localhost:1313/portfolio/tags/sarima/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/streamlit/</loc>
+    <loc>http://localhost:1313/portfolio/tags/scikit-learn/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/tableau/</loc>
+    <loc>http://localhost:1313/portfolio/tags/seaborn/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/portfolio/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/telegram/</loc>
+    <loc>http://localhost:1313/portfolio/tags/signal-processing/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/tensorflow/</loc>
+    <loc>http://localhost:1313/portfolio/tags/software-engineering/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/tensorflow.js/</loc>
+    <loc>http://localhost:1313/portfolio/tags/spectrograms/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/time-series/</loc>
+    <loc>http://localhost:1313/portfolio/tags/sports-analytics/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/transfer-learning/</loc>
+    <loc>http://localhost:1313/portfolio/tags/sql/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/vector-databases/</loc>
+    <loc>http://localhost:1313/portfolio/tags/sqlite/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/version-control/</loc>
+    <loc>http://localhost:1313/portfolio/tags/ssd-mobilenet/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/visualization/</loc>
+    <loc>http://localhost:1313/portfolio/tags/statistical-modeling/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/web-development/</loc>
+    <loc>http://localhost:1313/portfolio/tags/streamlit/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/web-scraping/</loc>
+    <loc>http://localhost:1313/portfolio/tags/tableau/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/webrtc/</loc>
+    <loc>http://localhost:1313/portfolio/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/wildlife-conservation/</loc>
+    <loc>http://localhost:1313/portfolio/tags/telegram/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/xgboost/</loc>
+    <loc>http://localhost:1313/portfolio/tags/tensorflow/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/yolov5/</loc>
+    <loc>http://localhost:1313/portfolio/tags/tensorflow.js/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/time-series/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/transfer-learning/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/vector-databases/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/version-control/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/visualization/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/web-development/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/web-scraping/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/webrtc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/wildlife-conservation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/xgboost/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/yolov5/</loc>
   </url>
 </urlset>

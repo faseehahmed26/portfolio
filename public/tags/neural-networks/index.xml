@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Neural Networks on Faseeh Ahmed Mohammad</title>
-    <link>http://localhost:1313/tags/neural-networks/</link>
+    <link>http://localhost:1313/portfolio/tags/neural-networks/</link>
     <description>Recent content in Neural Networks on Faseeh Ahmed Mohammad</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://localhost:1313/portfolio/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research Assistant</title>
-      <link>http://localhost:1313/experience/rit/</link>
+      <link>http://localhost:1313/portfolio/experience/rit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experience/rit/</guid>
+      <guid>http://localhost:1313/portfolio/experience/rit/</guid>
       <description>Rochester Institute of Technology | Rochester, NY</description>
     </item>
     
     <item>
       <title>Teaching Assistant - Machine Learning</title>
-      <link>http://localhost:1313/experience/rit_1/</link>
+      <link>http://localhost:1313/portfolio/experience/rit_1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experience/rit_1/</guid>
+      <guid>http://localhost:1313/portfolio/experience/rit_1/</guid>
       <description>Rochester Institute of Technology | Rochester, NY</description>
     </item>
     
     <item>
       <title>Synthetic Anime Data Generator</title>
-      <link>http://localhost:1313/projects/synthetic-anime-data-generator/</link>
+      <link>http://localhost:1313/portfolio/projects/synthetic-anime-data-generator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/synthetic-anime-data-generator/</guid>
+      <guid>http://localhost:1313/portfolio/projects/synthetic-anime-data-generator/</guid>
       <description>Generated diverse anime character images using DC-GAN architecture</description>
     </item>
     

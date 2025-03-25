@@ -2,61 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Computer Vision on Faseeh Ahmed Mohammad</title>
-    <link>http://localhost:1313/tags/computer-vision/</link>
+    <link>http://localhost:1313/portfolio/tags/computer-vision/</link>
     <description>Recent content in Computer Vision on Faseeh Ahmed Mohammad</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://localhost:1313/portfolio/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beverage Management System</title>
-      <link>http://localhost:1313/projects/beverage-managment-system/</link>
+      <link>http://localhost:1313/portfolio/projects/beverage-managment-system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/beverage-managment-system/</guid>
+      <guid>http://localhost:1313/portfolio/projects/beverage-managment-system/</guid>
       <description>A real-time inventory tracking system using YOLOv5 and Streamlit</description>
     </item>
     
     <item>
       <title>NutriPedia - Food Recognition &amp; Calorie Estimation</title>
-      <link>http://localhost:1313/projects/nutripedia/</link>
+      <link>http://localhost:1313/portfolio/projects/nutripedia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/nutripedia/</guid>
+      <guid>http://localhost:1313/portfolio/projects/nutripedia/</guid>
       <description>An AI-powered food recognition system with calorie estimation</description>
     </item>
     
     <item>
-      <title>Data Scientist Intern</title>
-      <link>http://localhost:1313/experience/digital-clinics-research-and-services/</link>
+      <title>Tubules Detection on Breast Carcinoma Whole Slide Images</title>
+      <link>http://localhost:1313/portfolio/publications/tubules-detection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experience/digital-clinics-research-and-services/</guid>
+      <guid>http://localhost:1313/portfolio/publications/tubules-detection/</guid>
+      <description>AI-powered detection system for breast cancer grading using deep learning</description>
+    </item>
+    
+    <item>
+      <title>Web-based Mitosis Detection on Breast Cancer WSI</title>
+      <link>http://localhost:1313/portfolio/publications/mitosis-detection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/publications/mitosis-detection/</guid>
+      <description>Advanced object detection models for automating mitotic figure identification</description>
+    </item>
+    
+    <item>
+      <title>Data Scientist Intern</title>
+      <link>http://localhost:1313/portfolio/experience/digital-clinics-research-and-services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/experience/digital-clinics-research-and-services/</guid>
       <description>Digital Clinics Research and Services | Hyderabad, India</description>
     </item>
     
     <item>
       <title>Number Plate Detection &amp; Recognition</title>
-      <link>http://localhost:1313/projects/number-plate-detection/</link>
+      <link>http://localhost:1313/portfolio/projects/number-plate-detection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/number-plate-detection/</guid>
+      <guid>http://localhost:1313/portfolio/projects/number-plate-detection/</guid>
       <description>Real-time license plate detection and OCR system using TensorFlow Object Detection API</description>
     </item>
     
     <item>
       <title>Data Scientist Intern</title>
-      <link>http://localhost:1313/experience/edgeforce-solutions/</link>
+      <link>http://localhost:1313/portfolio/experience/edgeforce-solutions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experience/edgeforce-solutions/</guid>
+      <guid>http://localhost:1313/portfolio/experience/edgeforce-solutions/</guid>
       <description>Edgeforce Solutions | Hyderabad, India</description>
     </item>
     
     <item>
       <title>Synthetic Anime Data Generator</title>
-      <link>http://localhost:1313/projects/synthetic-anime-data-generator/</link>
+      <link>http://localhost:1313/portfolio/projects/synthetic-anime-data-generator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/synthetic-anime-data-generator/</guid>
+      <guid>http://localhost:1313/portfolio/projects/synthetic-anime-data-generator/</guid>
       <description>Generated diverse anime character images using DC-GAN architecture</description>
     </item>
     

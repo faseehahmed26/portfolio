@@ -2,1168 +2,1240 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Faseeh Ahmed Mohammad</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:1313/portfolio/tags/</link>
     <description>Recent content in Tags on Faseeh Ahmed Mohammad</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://localhost:1313/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>http://localhost:1313/tags/ai/</link>
+      <link>http://localhost:1313/portfolio/tags/ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/ai/</guid>
+      <guid>http://localhost:1313/portfolio/tags/ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AI Infrastructure</title>
-      <link>http://localhost:1313/tags/ai-infrastructure/</link>
+      <link>http://localhost:1313/portfolio/tags/ai-infrastructure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/ai-infrastructure/</guid>
+      <guid>http://localhost:1313/portfolio/tags/ai-infrastructure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>API Development</title>
-      <link>http://localhost:1313/tags/api-development/</link>
+      <link>http://localhost:1313/portfolio/tags/api-development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/api-development/</guid>
+      <guid>http://localhost:1313/portfolio/tags/api-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>API Integration</title>
-      <link>http://localhost:1313/tags/api-integration/</link>
+      <link>http://localhost:1313/portfolio/tags/api-integration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/api-integration/</guid>
+      <guid>http://localhost:1313/portfolio/tags/api-integration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ARIMA</title>
-      <link>http://localhost:1313/tags/arima/</link>
+      <link>http://localhost:1313/portfolio/tags/arima/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/arima/</guid>
+      <guid>http://localhost:1313/portfolio/tags/arima/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Audio Classification</title>
-      <link>http://localhost:1313/tags/audio-classification/</link>
+      <link>http://localhost:1313/portfolio/tags/audio-classification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/audio-classification/</guid>
+      <guid>http://localhost:1313/portfolio/tags/audio-classification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Audio Processing</title>
-      <link>http://localhost:1313/tags/audio-processing/</link>
+      <link>http://localhost:1313/portfolio/tags/audio-processing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/audio-processing/</guid>
+      <guid>http://localhost:1313/portfolio/tags/audio-processing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automation</title>
-      <link>http://localhost:1313/tags/automation/</link>
+      <link>http://localhost:1313/portfolio/tags/automation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/automation/</guid>
+      <guid>http://localhost:1313/portfolio/tags/automation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AWS</title>
-      <link>http://localhost:1313/tags/aws/</link>
+      <link>http://localhost:1313/portfolio/tags/aws/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/aws/</guid>
+      <guid>http://localhost:1313/portfolio/tags/aws/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BeautifulSoup</title>
-      <link>http://localhost:1313/tags/beautifulsoup/</link>
+      <link>http://localhost:1313/portfolio/tags/beautifulsoup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/beautifulsoup/</guid>
+      <guid>http://localhost:1313/portfolio/tags/beautifulsoup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BERT</title>
-      <link>http://localhost:1313/tags/bert/</link>
+      <link>http://localhost:1313/portfolio/tags/bert/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/bert/</guid>
+      <guid>http://localhost:1313/portfolio/tags/bert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cancer Detection</title>
+      <link>http://localhost:1313/portfolio/tags/cancer-detection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/cancer-detection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chatbot</title>
-      <link>http://localhost:1313/tags/chatbot/</link>
+      <link>http://localhost:1313/portfolio/tags/chatbot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/chatbot/</guid>
+      <guid>http://localhost:1313/portfolio/tags/chatbot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CI/CD</title>
-      <link>http://localhost:1313/tags/ci/cd/</link>
+      <link>http://localhost:1313/portfolio/tags/ci/cd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/ci/cd/</guid>
+      <guid>http://localhost:1313/portfolio/tags/ci/cd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Classification</title>
-      <link>http://localhost:1313/tags/classification/</link>
+      <link>http://localhost:1313/portfolio/tags/classification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/classification/</guid>
+      <guid>http://localhost:1313/portfolio/tags/classification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloud Computing</title>
-      <link>http://localhost:1313/tags/cloud-computing/</link>
+      <link>http://localhost:1313/portfolio/tags/cloud-computing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/cloud-computing/</guid>
+      <guid>http://localhost:1313/portfolio/tags/cloud-computing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CNN</title>
-      <link>http://localhost:1313/tags/cnn/</link>
+      <link>http://localhost:1313/portfolio/tags/cnn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/cnn/</guid>
+      <guid>http://localhost:1313/portfolio/tags/cnn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computer Vision</title>
-      <link>http://localhost:1313/tags/computer-vision/</link>
+      <link>http://localhost:1313/portfolio/tags/computer-vision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/computer-vision/</guid>
+      <guid>http://localhost:1313/portfolio/tags/computer-vision/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Content Generation</title>
-      <link>http://localhost:1313/tags/content-generation/</link>
+      <link>http://localhost:1313/portfolio/tags/content-generation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/content-generation/</guid>
+      <guid>http://localhost:1313/portfolio/tags/content-generation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CUDA</title>
-      <link>http://localhost:1313/tags/cuda/</link>
+      <link>http://localhost:1313/portfolio/tags/cuda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/cuda/</guid>
+      <guid>http://localhost:1313/portfolio/tags/cuda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Customer Analytics</title>
-      <link>http://localhost:1313/tags/customer-analytics/</link>
+      <link>http://localhost:1313/portfolio/tags/customer-analytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/customer-analytics/</guid>
+      <guid>http://localhost:1313/portfolio/tags/customer-analytics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Analysis</title>
-      <link>http://localhost:1313/tags/data-analysis/</link>
+      <link>http://localhost:1313/portfolio/tags/data-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/data-analysis/</guid>
+      <guid>http://localhost:1313/portfolio/tags/data-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Cleaning</title>
-      <link>http://localhost:1313/tags/data-cleaning/</link>
+      <link>http://localhost:1313/portfolio/tags/data-cleaning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/data-cleaning/</guid>
+      <guid>http://localhost:1313/portfolio/tags/data-cleaning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Collection</title>
-      <link>http://localhost:1313/tags/data-collection/</link>
+      <link>http://localhost:1313/portfolio/tags/data-collection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/data-collection/</guid>
+      <guid>http://localhost:1313/portfolio/tags/data-collection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Engineering</title>
-      <link>http://localhost:1313/tags/data-engineering/</link>
+      <link>http://localhost:1313/portfolio/tags/data-engineering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/data-engineering/</guid>
+      <guid>http://localhost:1313/portfolio/tags/data-engineering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Generation</title>
-      <link>http://localhost:1313/tags/data-generation/</link>
+      <link>http://localhost:1313/portfolio/tags/data-generation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/data-generation/</guid>
+      <guid>http://localhost:1313/portfolio/tags/data-generation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Pipeline</title>
-      <link>http://localhost:1313/tags/data-pipeline/</link>
+      <link>http://localhost:1313/portfolio/tags/data-pipeline/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/data-pipeline/</guid>
+      <guid>http://localhost:1313/portfolio/tags/data-pipeline/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Pipelines</title>
-      <link>http://localhost:1313/tags/data-pipelines/</link>
+      <link>http://localhost:1313/portfolio/tags/data-pipelines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/data-pipelines/</guid>
+      <guid>http://localhost:1313/portfolio/tags/data-pipelines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Science</title>
-      <link>http://localhost:1313/tags/data-science/</link>
+      <link>http://localhost:1313/portfolio/tags/data-science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/data-science/</guid>
+      <guid>http://localhost:1313/portfolio/tags/data-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Visualization</title>
-      <link>http://localhost:1313/tags/data-visualization/</link>
+      <link>http://localhost:1313/portfolio/tags/data-visualization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/data-visualization/</guid>
+      <guid>http://localhost:1313/portfolio/tags/data-visualization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>http://localhost:1313/tags/deep-learning/</link>
+      <link>http://localhost:1313/portfolio/tags/deep-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/deep-learning/</guid>
+      <guid>http://localhost:1313/portfolio/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detectron2</title>
-      <link>http://localhost:1313/tags/detectron2/</link>
+      <link>http://localhost:1313/portfolio/tags/detectron2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/detectron2/</guid>
+      <guid>http://localhost:1313/portfolio/tags/detectron2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Developer Tools</title>
-      <link>http://localhost:1313/tags/developer-tools/</link>
+      <link>http://localhost:1313/portfolio/tags/developer-tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/developer-tools/</guid>
+      <guid>http://localhost:1313/portfolio/tags/developer-tools/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DialogFlow</title>
-      <link>http://localhost:1313/tags/dialogflow/</link>
+      <link>http://localhost:1313/portfolio/tags/dialogflow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/dialogflow/</guid>
+      <guid>http://localhost:1313/portfolio/tags/dialogflow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distributed Computing</title>
-      <link>http://localhost:1313/tags/distributed-computing/</link>
+      <link>http://localhost:1313/portfolio/tags/distributed-computing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/distributed-computing/</guid>
+      <guid>http://localhost:1313/portfolio/tags/distributed-computing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distributed Systems</title>
-      <link>http://localhost:1313/tags/distributed-systems/</link>
+      <link>http://localhost:1313/portfolio/tags/distributed-systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/distributed-systems/</guid>
+      <guid>http://localhost:1313/portfolio/tags/distributed-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Training</title>
+      <link>http://localhost:1313/portfolio/tags/distributed-training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/distributed-training/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docker</title>
-      <link>http://localhost:1313/tags/docker/</link>
+      <link>http://localhost:1313/portfolio/tags/docker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/docker/</guid>
+      <guid>http://localhost:1313/portfolio/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DynamoDB</title>
-      <link>http://localhost:1313/tags/dynamodb/</link>
+      <link>http://localhost:1313/portfolio/tags/dynamodb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/dynamodb/</guid>
+      <guid>http://localhost:1313/portfolio/tags/dynamodb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EasyOCR</title>
-      <link>http://localhost:1313/tags/easyocr/</link>
+      <link>http://localhost:1313/portfolio/tags/easyocr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/easyocr/</guid>
+      <guid>http://localhost:1313/portfolio/tags/easyocr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EDA</title>
-      <link>http://localhost:1313/tags/eda/</link>
+      <link>http://localhost:1313/portfolio/tags/eda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/eda/</guid>
+      <guid>http://localhost:1313/portfolio/tags/eda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Education</title>
-      <link>http://localhost:1313/tags/education/</link>
+      <link>http://localhost:1313/portfolio/tags/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/education/</guid>
+      <guid>http://localhost:1313/portfolio/tags/education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ETL</title>
-      <link>http://localhost:1313/tags/etl/</link>
+      <link>http://localhost:1313/portfolio/tags/etl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/etl/</guid>
+      <guid>http://localhost:1313/portfolio/tags/etl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ETL Pipeline</title>
-      <link>http://localhost:1313/tags/etl-pipeline/</link>
+      <link>http://localhost:1313/portfolio/tags/etl-pipeline/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/etl-pipeline/</guid>
+      <guid>http://localhost:1313/portfolio/tags/etl-pipeline/</guid>
       <description></description>
     </item>
     
     <item>
       <title>F1 Score</title>
-      <link>http://localhost:1313/tags/f1-score/</link>
+      <link>http://localhost:1313/portfolio/tags/f1-score/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/f1-score/</guid>
+      <guid>http://localhost:1313/portfolio/tags/f1-score/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Faster R-CNN</title>
-      <link>http://localhost:1313/tags/faster-r-cnn/</link>
+      <link>http://localhost:1313/portfolio/tags/faster-r-cnn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/faster-r-cnn/</guid>
+      <guid>http://localhost:1313/portfolio/tags/faster-r-cnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FasterRCNN</title>
+      <link>http://localhost:1313/portfolio/tags/fasterrcnn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/fasterrcnn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feature Engineering</title>
-      <link>http://localhost:1313/tags/feature-engineering/</link>
+      <link>http://localhost:1313/portfolio/tags/feature-engineering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/feature-engineering/</guid>
+      <guid>http://localhost:1313/portfolio/tags/feature-engineering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FedDisco</title>
-      <link>http://localhost:1313/tags/feddisco/</link>
+      <link>http://localhost:1313/portfolio/tags/feddisco/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/feddisco/</guid>
+      <guid>http://localhost:1313/portfolio/tags/feddisco/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Federated Learning</title>
-      <link>http://localhost:1313/tags/federated-learning/</link>
+      <link>http://localhost:1313/portfolio/tags/federated-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/federated-learning/</guid>
+      <guid>http://localhost:1313/portfolio/tags/federated-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fine-Tuning</title>
-      <link>http://localhost:1313/tags/fine-tuning/</link>
+      <link>http://localhost:1313/portfolio/tags/fine-tuning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/fine-tuning/</guid>
+      <guid>http://localhost:1313/portfolio/tags/fine-tuning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flask</title>
-      <link>http://localhost:1313/tags/flask/</link>
+      <link>http://localhost:1313/portfolio/tags/flask/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/flask/</guid>
+      <guid>http://localhost:1313/portfolio/tags/flask/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Food Recognition</title>
-      <link>http://localhost:1313/tags/food-recognition/</link>
+      <link>http://localhost:1313/portfolio/tags/food-recognition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/food-recognition/</guid>
+      <guid>http://localhost:1313/portfolio/tags/food-recognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Forecasting</title>
-      <link>http://localhost:1313/tags/forecasting/</link>
+      <link>http://localhost:1313/portfolio/tags/forecasting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/forecasting/</guid>
+      <guid>http://localhost:1313/portfolio/tags/forecasting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GAN</title>
-      <link>http://localhost:1313/tags/gan/</link>
+      <link>http://localhost:1313/portfolio/tags/gan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/gan/</guid>
+      <guid>http://localhost:1313/portfolio/tags/gan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GenAI</title>
-      <link>http://localhost:1313/tags/genai/</link>
+      <link>http://localhost:1313/portfolio/tags/genai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/genai/</guid>
+      <guid>http://localhost:1313/portfolio/tags/genai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Google Cloud</title>
-      <link>http://localhost:1313/tags/google-cloud/</link>
+      <link>http://localhost:1313/portfolio/tags/google-cloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/google-cloud/</guid>
+      <guid>http://localhost:1313/portfolio/tags/google-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Groovy</title>
+      <link>http://localhost:1313/portfolio/tags/groovy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/groovy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GRPC</title>
-      <link>http://localhost:1313/tags/grpc/</link>
+      <link>http://localhost:1313/portfolio/tags/grpc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/grpc/</guid>
+      <guid>http://localhost:1313/portfolio/tags/grpc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Healthcare</title>
-      <link>http://localhost:1313/tags/healthcare/</link>
+      <link>http://localhost:1313/portfolio/tags/healthcare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/healthcare/</guid>
+      <guid>http://localhost:1313/portfolio/tags/healthcare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HistomicsTK</title>
+      <link>http://localhost:1313/portfolio/tags/histomicstk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/histomicstk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HistomicsUI</title>
+      <link>http://localhost:1313/portfolio/tags/histomicsui/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/histomicsui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Horovod</title>
+      <link>http://localhost:1313/portfolio/tags/horovod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/horovod/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hyperparameter Tuning</title>
-      <link>http://localhost:1313/tags/hyperparameter-tuning/</link>
+      <link>http://localhost:1313/portfolio/tags/hyperparameter-tuning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/hyperparameter-tuning/</guid>
+      <guid>http://localhost:1313/portfolio/tags/hyperparameter-tuning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image Processing</title>
-      <link>http://localhost:1313/tags/image-processing/</link>
+      <link>http://localhost:1313/portfolio/tags/image-processing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/image-processing/</guid>
+      <guid>http://localhost:1313/portfolio/tags/image-processing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Imbalanced Data</title>
-      <link>http://localhost:1313/tags/imbalanced-data/</link>
+      <link>http://localhost:1313/portfolio/tags/imbalanced-data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/imbalanced-data/</guid>
+      <guid>http://localhost:1313/portfolio/tags/imbalanced-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IMDB API</title>
-      <link>http://localhost:1313/tags/imdb-api/</link>
+      <link>http://localhost:1313/portfolio/tags/imdb-api/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/imdb-api/</guid>
+      <guid>http://localhost:1313/portfolio/tags/imdb-api/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inception-V3</title>
-      <link>http://localhost:1313/tags/inception-v3/</link>
+      <link>http://localhost:1313/portfolio/tags/inception-v3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/inception-v3/</guid>
+      <guid>http://localhost:1313/portfolio/tags/inception-v3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inventory Management</title>
-      <link>http://localhost:1313/tags/inventory-management/</link>
+      <link>http://localhost:1313/portfolio/tags/inventory-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/inventory-management/</guid>
+      <guid>http://localhost:1313/portfolio/tags/inventory-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JavaScript</title>
-      <link>http://localhost:1313/tags/javascript/</link>
+      <link>http://localhost:1313/portfolio/tags/javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/javascript/</guid>
+      <guid>http://localhost:1313/portfolio/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Keras</title>
-      <link>http://localhost:1313/tags/keras/</link>
+      <link>http://localhost:1313/portfolio/tags/keras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/keras/</guid>
+      <guid>http://localhost:1313/portfolio/tags/keras/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lambda</title>
-      <link>http://localhost:1313/tags/lambda/</link>
+      <link>http://localhost:1313/portfolio/tags/lambda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/lambda/</guid>
+      <guid>http://localhost:1313/portfolio/tags/lambda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lasso Regression</title>
-      <link>http://localhost:1313/tags/lasso-regression/</link>
+      <link>http://localhost:1313/portfolio/tags/lasso-regression/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/lasso-regression/</guid>
+      <guid>http://localhost:1313/portfolio/tags/lasso-regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LLM</title>
-      <link>http://localhost:1313/tags/llm/</link>
+      <link>http://localhost:1313/portfolio/tags/llm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/llm/</guid>
+      <guid>http://localhost:1313/portfolio/tags/llm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LLMs</title>
-      <link>http://localhost:1313/tags/llms/</link>
+      <link>http://localhost:1313/portfolio/tags/llms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/llms/</guid>
+      <guid>http://localhost:1313/portfolio/tags/llms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LSTM</title>
-      <link>http://localhost:1313/tags/lstm/</link>
+      <link>http://localhost:1313/portfolio/tags/lstm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/lstm/</guid>
+      <guid>http://localhost:1313/portfolio/tags/lstm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning</title>
-      <link>http://localhost:1313/tags/machine-learning/</link>
+      <link>http://localhost:1313/portfolio/tags/machine-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <guid>http://localhost:1313/portfolio/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mask R-CNN</title>
-      <link>http://localhost:1313/tags/mask-r-cnn/</link>
+      <link>http://localhost:1313/portfolio/tags/mask-r-cnn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/mask-r-cnn/</guid>
+      <guid>http://localhost:1313/portfolio/tags/mask-r-cnn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Medical Imaging</title>
-      <link>http://localhost:1313/tags/medical-imaging/</link>
+      <link>http://localhost:1313/portfolio/tags/medical-imaging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/medical-imaging/</guid>
+      <guid>http://localhost:1313/portfolio/tags/medical-imaging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mentoring</title>
-      <link>http://localhost:1313/tags/mentoring/</link>
+      <link>http://localhost:1313/portfolio/tags/mentoring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/mentoring/</guid>
+      <guid>http://localhost:1313/portfolio/tags/mentoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MERN Stack</title>
-      <link>http://localhost:1313/tags/mern-stack/</link>
+      <link>http://localhost:1313/portfolio/tags/mern-stack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/mern-stack/</guid>
+      <guid>http://localhost:1313/portfolio/tags/mern-stack/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microservices</title>
-      <link>http://localhost:1313/tags/microservices/</link>
+      <link>http://localhost:1313/portfolio/tags/microservices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/microservices/</guid>
+      <guid>http://localhost:1313/portfolio/tags/microservices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MLOps</title>
-      <link>http://localhost:1313/tags/mlops/</link>
+      <link>http://localhost:1313/portfolio/tags/mlops/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/mlops/</guid>
+      <guid>http://localhost:1313/portfolio/tags/mlops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model Deployment</title>
-      <link>http://localhost:1313/tags/model-deployment/</link>
+      <link>http://localhost:1313/portfolio/tags/model-deployment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/model-deployment/</guid>
+      <guid>http://localhost:1313/portfolio/tags/model-deployment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model Optimization</title>
-      <link>http://localhost:1313/tags/model-optimization/</link>
+      <link>http://localhost:1313/portfolio/tags/model-optimization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/model-optimization/</guid>
+      <guid>http://localhost:1313/portfolio/tags/model-optimization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MongoDB</title>
-      <link>http://localhost:1313/tags/mongodb/</link>
+      <link>http://localhost:1313/portfolio/tags/mongodb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/mongodb/</guid>
+      <guid>http://localhost:1313/portfolio/tags/mongodb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Movie Recommendation</title>
-      <link>http://localhost:1313/tags/movie-recommendation/</link>
+      <link>http://localhost:1313/portfolio/tags/movie-recommendation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/movie-recommendation/</guid>
+      <guid>http://localhost:1313/portfolio/tags/movie-recommendation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neural Networks</title>
-      <link>http://localhost:1313/tags/neural-networks/</link>
+      <link>http://localhost:1313/portfolio/tags/neural-networks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/neural-networks/</guid>
+      <guid>http://localhost:1313/portfolio/tags/neural-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NLP</title>
-      <link>http://localhost:1313/tags/nlp/</link>
+      <link>http://localhost:1313/portfolio/tags/nlp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/nlp/</guid>
+      <guid>http://localhost:1313/portfolio/tags/nlp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nutrition</title>
-      <link>http://localhost:1313/tags/nutrition/</link>
+      <link>http://localhost:1313/portfolio/tags/nutrition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/nutrition/</guid>
+      <guid>http://localhost:1313/portfolio/tags/nutrition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Object Detection</title>
-      <link>http://localhost:1313/tags/object-detection/</link>
+      <link>http://localhost:1313/portfolio/tags/object-detection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/object-detection/</guid>
+      <guid>http://localhost:1313/portfolio/tags/object-detection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OCR</title>
-      <link>http://localhost:1313/tags/ocr/</link>
+      <link>http://localhost:1313/portfolio/tags/ocr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/ocr/</guid>
+      <guid>http://localhost:1313/portfolio/tags/ocr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenCV</title>
-      <link>http://localhost:1313/tags/opencv/</link>
+      <link>http://localhost:1313/portfolio/tags/opencv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/opencv/</guid>
+      <guid>http://localhost:1313/portfolio/tags/opencv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pandas</title>
-      <link>http://localhost:1313/tags/pandas/</link>
+      <link>http://localhost:1313/portfolio/tags/pandas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/pandas/</guid>
+      <guid>http://localhost:1313/portfolio/tags/pandas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pickle</title>
-      <link>http://localhost:1313/tags/pickle/</link>
+      <link>http://localhost:1313/portfolio/tags/pickle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/pickle/</guid>
+      <guid>http://localhost:1313/portfolio/tags/pickle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predictive Analytics</title>
-      <link>http://localhost:1313/tags/predictive-analytics/</link>
+      <link>http://localhost:1313/portfolio/tags/predictive-analytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/predictive-analytics/</guid>
+      <guid>http://localhost:1313/portfolio/tags/predictive-analytics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Productivity</title>
-      <link>http://localhost:1313/tags/productivity/</link>
+      <link>http://localhost:1313/portfolio/tags/productivity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/productivity/</guid>
+      <guid>http://localhost:1313/portfolio/tags/productivity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prompt Management</title>
-      <link>http://localhost:1313/tags/prompt-management/</link>
+      <link>http://localhost:1313/portfolio/tags/prompt-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/prompt-management/</guid>
+      <guid>http://localhost:1313/portfolio/tags/prompt-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
+      <link>http://localhost:1313/portfolio/tags/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/python/</guid>
+      <guid>http://localhost:1313/portfolio/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>http://localhost:1313/tags/pytorch/</link>
+      <link>http://localhost:1313/portfolio/tags/pytorch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/pytorch/</guid>
+      <guid>http://localhost:1313/portfolio/tags/pytorch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QuPath</title>
-      <link>http://localhost:1313/tags/qupath/</link>
+      <link>http://localhost:1313/portfolio/tags/qupath/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/qupath/</guid>
+      <guid>http://localhost:1313/portfolio/tags/qupath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R2U-Net</title>
+      <link>http://localhost:1313/portfolio/tags/r2u-net/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/r2u-net/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RAG</title>
-      <link>http://localhost:1313/tags/rag/</link>
+      <link>http://localhost:1313/portfolio/tags/rag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/rag/</guid>
+      <guid>http://localhost:1313/portfolio/tags/rag/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Random Forest</title>
-      <link>http://localhost:1313/tags/random-forest/</link>
+      <link>http://localhost:1313/portfolio/tags/random-forest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/random-forest/</guid>
+      <guid>http://localhost:1313/portfolio/tags/random-forest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>React</title>
-      <link>http://localhost:1313/tags/react/</link>
+      <link>http://localhost:1313/portfolio/tags/react/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/react/</guid>
+      <guid>http://localhost:1313/portfolio/tags/react/</guid>
       <description></description>
     </item>
     
     <item>
       <title>React Native</title>
-      <link>http://localhost:1313/tags/react-native/</link>
+      <link>http://localhost:1313/portfolio/tags/react-native/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/react-native/</guid>
+      <guid>http://localhost:1313/portfolio/tags/react-native/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Real-Time Systems</title>
-      <link>http://localhost:1313/tags/real-time-systems/</link>
+      <link>http://localhost:1313/portfolio/tags/real-time-systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/real-time-systems/</guid>
+      <guid>http://localhost:1313/portfolio/tags/real-time-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Redshift</title>
-      <link>http://localhost:1313/tags/redshift/</link>
+      <link>http://localhost:1313/portfolio/tags/redshift/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/redshift/</guid>
+      <guid>http://localhost:1313/portfolio/tags/redshift/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regression</title>
-      <link>http://localhost:1313/tags/regression/</link>
+      <link>http://localhost:1313/portfolio/tags/regression/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/regression/</guid>
+      <guid>http://localhost:1313/portfolio/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ridge Regression</title>
-      <link>http://localhost:1313/tags/ridge-regression/</link>
+      <link>http://localhost:1313/portfolio/tags/ridge-regression/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/ridge-regression/</guid>
+      <guid>http://localhost:1313/portfolio/tags/ridge-regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SARIMA</title>
-      <link>http://localhost:1313/tags/sarima/</link>
+      <link>http://localhost:1313/portfolio/tags/sarima/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/sarima/</guid>
+      <guid>http://localhost:1313/portfolio/tags/sarima/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scikit-Learn</title>
-      <link>http://localhost:1313/tags/scikit-learn/</link>
+      <link>http://localhost:1313/portfolio/tags/scikit-learn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/scikit-learn/</guid>
+      <guid>http://localhost:1313/portfolio/tags/scikit-learn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seaborn</title>
-      <link>http://localhost:1313/tags/seaborn/</link>
+      <link>http://localhost:1313/portfolio/tags/seaborn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/seaborn/</guid>
+      <guid>http://localhost:1313/portfolio/tags/seaborn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Signal Processing</title>
-      <link>http://localhost:1313/tags/signal-processing/</link>
+      <link>http://localhost:1313/portfolio/tags/signal-processing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/signal-processing/</guid>
+      <guid>http://localhost:1313/portfolio/tags/signal-processing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software Engineering</title>
-      <link>http://localhost:1313/tags/software-engineering/</link>
+      <link>http://localhost:1313/portfolio/tags/software-engineering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/software-engineering/</guid>
+      <guid>http://localhost:1313/portfolio/tags/software-engineering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spectrograms</title>
-      <link>http://localhost:1313/tags/spectrograms/</link>
+      <link>http://localhost:1313/portfolio/tags/spectrograms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/spectrograms/</guid>
+      <guid>http://localhost:1313/portfolio/tags/spectrograms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sports Analytics</title>
-      <link>http://localhost:1313/tags/sports-analytics/</link>
+      <link>http://localhost:1313/portfolio/tags/sports-analytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/sports-analytics/</guid>
+      <guid>http://localhost:1313/portfolio/tags/sports-analytics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SQL</title>
-      <link>http://localhost:1313/tags/sql/</link>
+      <link>http://localhost:1313/portfolio/tags/sql/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/sql/</guid>
+      <guid>http://localhost:1313/portfolio/tags/sql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SQLite</title>
-      <link>http://localhost:1313/tags/sqlite/</link>
+      <link>http://localhost:1313/portfolio/tags/sqlite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/sqlite/</guid>
+      <guid>http://localhost:1313/portfolio/tags/sqlite/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SSD MobileNet</title>
-      <link>http://localhost:1313/tags/ssd-mobilenet/</link>
+      <link>http://localhost:1313/portfolio/tags/ssd-mobilenet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/ssd-mobilenet/</guid>
+      <guid>http://localhost:1313/portfolio/tags/ssd-mobilenet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Modeling</title>
-      <link>http://localhost:1313/tags/statistical-modeling/</link>
+      <link>http://localhost:1313/portfolio/tags/statistical-modeling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/statistical-modeling/</guid>
+      <guid>http://localhost:1313/portfolio/tags/statistical-modeling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Streamlit</title>
-      <link>http://localhost:1313/tags/streamlit/</link>
+      <link>http://localhost:1313/portfolio/tags/streamlit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/streamlit/</guid>
+      <guid>http://localhost:1313/portfolio/tags/streamlit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tableau</title>
-      <link>http://localhost:1313/tags/tableau/</link>
+      <link>http://localhost:1313/portfolio/tags/tableau/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/tableau/</guid>
+      <guid>http://localhost:1313/portfolio/tags/tableau/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Telegram</title>
-      <link>http://localhost:1313/tags/telegram/</link>
+      <link>http://localhost:1313/portfolio/tags/telegram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/telegram/</guid>
+      <guid>http://localhost:1313/portfolio/tags/telegram/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TensorFlow</title>
-      <link>http://localhost:1313/tags/tensorflow/</link>
+      <link>http://localhost:1313/portfolio/tags/tensorflow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/tensorflow/</guid>
+      <guid>http://localhost:1313/portfolio/tags/tensorflow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TensorFlow.js</title>
-      <link>http://localhost:1313/tags/tensorflow.js/</link>
+      <link>http://localhost:1313/portfolio/tags/tensorflow.js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/tensorflow.js/</guid>
+      <guid>http://localhost:1313/portfolio/tags/tensorflow.js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time Series</title>
-      <link>http://localhost:1313/tags/time-series/</link>
+      <link>http://localhost:1313/portfolio/tags/time-series/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/time-series/</guid>
+      <guid>http://localhost:1313/portfolio/tags/time-series/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transfer Learning</title>
-      <link>http://localhost:1313/tags/transfer-learning/</link>
+      <link>http://localhost:1313/portfolio/tags/transfer-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/transfer-learning/</guid>
+      <guid>http://localhost:1313/portfolio/tags/transfer-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vector Databases</title>
-      <link>http://localhost:1313/tags/vector-databases/</link>
+      <link>http://localhost:1313/portfolio/tags/vector-databases/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/vector-databases/</guid>
+      <guid>http://localhost:1313/portfolio/tags/vector-databases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Version Control</title>
-      <link>http://localhost:1313/tags/version-control/</link>
+      <link>http://localhost:1313/portfolio/tags/version-control/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/version-control/</guid>
+      <guid>http://localhost:1313/portfolio/tags/version-control/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visualization</title>
-      <link>http://localhost:1313/tags/visualization/</link>
+      <link>http://localhost:1313/portfolio/tags/visualization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/visualization/</guid>
+      <guid>http://localhost:1313/portfolio/tags/visualization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web Development</title>
-      <link>http://localhost:1313/tags/web-development/</link>
+      <link>http://localhost:1313/portfolio/tags/web-development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/web-development/</guid>
+      <guid>http://localhost:1313/portfolio/tags/web-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web Scraping</title>
-      <link>http://localhost:1313/tags/web-scraping/</link>
+      <link>http://localhost:1313/portfolio/tags/web-scraping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/web-scraping/</guid>
+      <guid>http://localhost:1313/portfolio/tags/web-scraping/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WebRTC</title>
-      <link>http://localhost:1313/tags/webrtc/</link>
+      <link>http://localhost:1313/portfolio/tags/webrtc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/webrtc/</guid>
+      <guid>http://localhost:1313/portfolio/tags/webrtc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wildlife Conservation</title>
-      <link>http://localhost:1313/tags/wildlife-conservation/</link>
+      <link>http://localhost:1313/portfolio/tags/wildlife-conservation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/wildlife-conservation/</guid>
+      <guid>http://localhost:1313/portfolio/tags/wildlife-conservation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>XGBoost</title>
-      <link>http://localhost:1313/tags/xgboost/</link>
+      <link>http://localhost:1313/portfolio/tags/xgboost/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/xgboost/</guid>
+      <guid>http://localhost:1313/portfolio/tags/xgboost/</guid>
       <description></description>
     </item>
     
     <item>
       <title>YOLOv5</title>
-      <link>http://localhost:1313/tags/yolov5/</link>
+      <link>http://localhost:1313/portfolio/tags/yolov5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/yolov5/</guid>
+      <guid>http://localhost:1313/portfolio/tags/yolov5/</guid>
       <description></description>
     </item>
     

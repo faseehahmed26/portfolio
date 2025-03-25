@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>NLP on Faseeh Ahmed Mohammad</title>
-    <link>http://localhost:1313/tags/nlp/</link>
+    <link>http://localhost:1313/portfolio/tags/nlp/</link>
     <description>Recent content in NLP on Faseeh Ahmed Mohammad</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://localhost:1313/portfolio/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>COVID-19 Bot</title>
-      <link>http://localhost:1313/projects/covid-19-bot/</link>
+      <link>http://localhost:1313/portfolio/projects/covid-19-bot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/covid-19-bot/</guid>
+      <guid>http://localhost:1313/portfolio/projects/covid-19-bot/</guid>
       <description>AI-powered Telegram chatbot for pandemic information and assistance</description>
     </item>
     
     <item>
       <title>R&amp;D Data Governance Intern</title>
-      <link>http://localhost:1313/experience/daiichi-sankyo/</link>
+      <link>http://localhost:1313/portfolio/experience/daiichi-sankyo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experience/daiichi-sankyo/</guid>
+      <guid>http://localhost:1313/portfolio/experience/daiichi-sankyo/</guid>
       <description>Daiichi Sankyo Inc. | Basking Ridge, NJ</description>
     </item>
     
     <item>
       <title>AI Infrastructure Engineer</title>
-      <link>http://localhost:1313/experience/seocontent-ai/</link>
+      <link>http://localhost:1313/portfolio/experience/seocontent-ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experience/seocontent-ai/</guid>
+      <guid>http://localhost:1313/portfolio/experience/seocontent-ai/</guid>
       <description>SEO Content AI | Los Angeles, CA</description>
     </item>
     
     <item>
       <title>Machine Learning Engineer</title>
-      <link>http://localhost:1313/experience/wlr/</link>
+      <link>http://localhost:1313/portfolio/experience/wlr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experience/wlr/</guid>
+      <guid>http://localhost:1313/portfolio/experience/wlr/</guid>
       <description>White Label Resell | Los Angeles, CA</description>
     </item>
     
