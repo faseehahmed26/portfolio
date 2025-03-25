@@ -1,0 +1,103 @@
+baseURL: "https://arkalim.netlify.app"
+languageCode: en-us
+title: Faseeh Ahmed Mohammad
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: blog
+      name: Blog
+      url: /blog
+      weight: 20
+    - identifier: projects
+      name: Projects
+      url: /projects
+      weight: 30
+    - identifier: experience
+      name: Experience
+      url: /experience
+      weight: 40
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 50
+    - identifier: tags
+      name: Tags
+      url: /tags
+      weight: 60
+    # - identifier: notes
+    #   name: Notes
+    #   url: /notes
+    #   weight: 70
+
+params:
+  # theme
+  showToc: true
+  TocOpen: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideMeta: false
+
+  # for enchanced SEO
+  env: production
+
+  # Home Page
+  profileMode:
+    enabled: true
+    title: "Faseeh Ahmed Mohammad"
+    subtitle: Hi 👋 I'm Faseeh, a Data Scientist specializing in predictive modeling and analytics that transform complex information into strategic insights. Currently advancing clinical data governance at Daiichi Sankyo while researching federated learning at RIT. My expertise spans NLP, LLM architectures, and GenAI applications with a strong foundation in machine learning engineering. I've developed everything from medical imaging AI to RAG-powered data platforms, visualizing results through Tableau and Power BI. When I'm not optimizing models, you'll find me exploring emerging AI research or building innovative data pipelines. Let's connect and create intelligent solutions that drive meaningful impact!
+    imageUrl: "home/casual-small-square1.jpg"
+    imageWidth: 220
+    imageHeight: 220
+    # buttons:
+    #   - name: Resume
+    #     url: ""
+
+  # List View
+  hideDescriptionInList: false
+
+  # cover image for posts
+  cover:
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  socialIcons:
+    - name: "email"
+      url: "mailto:faseehahmed2606@gmail.com"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/mohammad-faseeh-ahmed/"
+    - name: "github"
+      url: "https://github.com/faseehahmed26"
+    - name: "medium"  
+      url: "https://medium.com/@faseehahmed2606"
+    - name: "twitter"  
+      url: "https://x.com/FaseehAhmed2606"
+    - name: "tableau"
+      url: "https://public.tableau.com/app/profile/faseeh5112"
+
+  # text search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# for search using Fuse.js
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# allow HTML in MD
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
