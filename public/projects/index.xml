@@ -52,6 +52,24 @@
     </item>
     
     <item>
+      <title>Twitter Dashboard</title>
+      <link>http://localhost:1313/portfolio/projects/twitter-dashboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/projects/twitter-dashboard/</guid>
+      <description>A Tableau dashboard providing insights into tweet performance, engagement rates, and tweet volume trends.</description>
+    </item>
+    
+    <item>
+      <title>Google Play Store Apps Dashboard</title>
+      <link>http://localhost:1313/portfolio/projects/google-play-store/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/projects/google-play-store/</guid>
+      <description>A Tableau dashboard exploring app ratings, installs, categories, and content reviews from the Google Play Store.</description>
+    </item>
+    
+    <item>
       <title>Beverage Management System</title>
       <link>http://localhost:1313/portfolio/projects/beverage-managment-system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -139,6 +157,15 @@
       
       <guid>http://localhost:1313/portfolio/projects/number-plate-detection/</guid>
       <description>Real-time license plate detection and OCR system using TensorFlow Object Detection API</description>
+    </item>
+    
+    <item>
+      <title>Analyzing FDI in Various Sectors of India</title>
+      <link>http://localhost:1313/portfolio/projects/fdi-india/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/projects/fdi-india/</guid>
+      <description>A Tableau dashboard providing insights into India&amp;#39;s FDI trends, highlighting top sectors with maximum and minimum inflows.</description>
     </item>
     
     <item>

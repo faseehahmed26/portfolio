@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/portfolio/projects/fdi-india/</loc>
+  </url><url>
     <loc>http://localhost:1313/portfolio/projects/prompt-manager/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/projects/telco-customer-churn/</loc>
@@ -56,6 +58,8 @@
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/ai-infrastructure/</loc>
   </url><url>
+    <loc>http://localhost:1313/portfolio/tags/analytics/</loc>
+  </url><url>
     <loc>http://localhost:1313/portfolio/tags/api-development/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/api-integration/</loc>
@@ -73,6 +77,8 @@
     <loc>http://localhost:1313/portfolio/tags/beautifulsoup/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/bert/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/business-intelligence/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/cancer-detection/</loc>
   </url><url>
@@ -95,6 +101,8 @@
     <loc>http://localhost:1313/portfolio/tags/cuda/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/customer-analytics/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/dashboard/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/data-analysis/</loc>
   </url><url>
@@ -152,11 +160,15 @@
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/fasterrcnn/</loc>
   </url><url>
+    <loc>http://localhost:1313/portfolio/tags/fdi/</loc>
+  </url><url>
     <loc>http://localhost:1313/portfolio/tags/feature-engineering/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/feddisco/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/federated-learning/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/finance/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/fine-tuning/</loc>
   </url><url>

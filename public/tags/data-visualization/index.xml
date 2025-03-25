@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://localhost:1313/portfolio/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Analyzing FDI in Various Sectors of India</title>
+      <link>http://localhost:1313/portfolio/projects/fdi-india/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/projects/fdi-india/</guid>
+      <description>A Tableau dashboard providing insights into India&amp;#39;s FDI trends, highlighting top sectors with maximum and minimum inflows.</description>
+    </item>
+    
+    <item>
       <title>Telco Customer Churn Project</title>
       <link>http://localhost:1313/portfolio/projects/telco-customer-churn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

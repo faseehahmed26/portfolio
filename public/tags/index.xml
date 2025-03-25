@@ -25,6 +25,15 @@
     </item>
     
     <item>
+      <title>Analytics</title>
+      <link>http://localhost:1313/portfolio/tags/analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>API Development</title>
       <link>http://localhost:1313/portfolio/tags/api-development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -102,6 +111,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/portfolio/tags/bert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business Intelligence</title>
+      <link>http://localhost:1313/portfolio/tags/business-intelligence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/business-intelligence/</guid>
       <description></description>
     </item>
     
@@ -192,6 +210,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/portfolio/tags/customer-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dashboard</title>
+      <link>http://localhost:1313/portfolio/tags/dashboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/dashboard/</guid>
       <description></description>
     </item>
     
@@ -430,6 +457,15 @@
     </item>
     
     <item>
+      <title>FDI</title>
+      <link>http://localhost:1313/portfolio/tags/fdi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/fdi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Feature Engineering</title>
       <link>http://localhost:1313/portfolio/tags/feature-engineering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -453,6 +489,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/portfolio/tags/federated-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finance</title>
+      <link>http://localhost:1313/portfolio/tags/finance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/finance/</guid>
       <description></description>
     </item>
     

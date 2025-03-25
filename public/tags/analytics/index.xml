@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Analytics on Faseeh Ahmed Mohammad</title>
+    <link>http://localhost:1313/portfolio/tags/analytics/</link>
+    <description>Recent content in Analytics on Faseeh Ahmed Mohammad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/portfolio/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analyzing FDI in Various Sectors of India</title>
+      <link>http://localhost:1313/portfolio/projects/fdi-india/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/projects/fdi-india/</guid>
+      <description>A Tableau dashboard providing insights into India&amp;#39;s FDI trends, highlighting top sectors with maximum and minimum inflows.</description>
+    </item>
+    
+  </channel>
+</rss>
