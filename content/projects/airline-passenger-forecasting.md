@@ -3,7 +3,7 @@ title: "Airline Passenger Forecasting Time Series Forecasting"
 description: "Demonstrating ARIMA & SARIMA forecasting on airline passengers and Tesla stock data."
 dateString: "Feb 2025"
 draft: false
-tags: ["Time Series", "ARIMA", "SARIMA", "Forecasting"]
+tags: ["Time Series", "ARIMA", "SARIMA", "Forecasting","Data Analysis"]
 showToc: false
 weight: 101
 cover:
