@@ -1,11 +1,11 @@
 --- 
 title: "KafkaSpark: Containerized User Data Processing Engine"
 description: "Multi-container distributed system with Airflow, Kafka, Spark, and Cassandra"
-dateString: "Jan 2023 - Mar 2023"
+dateString: "Jan 2025 - Mar 2025"
 draft: false
 tags: ["Data Engineering", "Apache Airflow", "Apache Kafka", "Apache Spark", "Cassandra", "Docker", "ETL", "PostgreSQL", "Python", "Distributed Systems", "Data Streaming", "Real-time Processing"]
 showToc: false
-weight: 303
+weight: 90
 cover:
    image: "projects/KafkaSpark/cover.png"
 ---

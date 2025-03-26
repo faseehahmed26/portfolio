@@ -2,8 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/portfolio/projects/fdi-india/</loc>
-  </url><url>
     <loc>http://localhost:1313/portfolio/projects/prompt-manager/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/projects/telco-customer-churn/</loc>
@@ -13,6 +11,10 @@
     <loc>http://localhost:1313/portfolio/projects/chronic-kidney/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/projects/covid-19-bot/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/projects/twitter-dashboard/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/projects/google-play-store/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/projects/beverage-managment-system/</loc>
   </url><url>
@@ -34,6 +36,8 @@
   </url><url>
     <loc>http://localhost:1313/portfolio/projects/flight-price-predictor/</loc>
   </url><url>
+    <loc>http://localhost:1313/portfolio/projects/kafkaspark/</loc>
+  </url><url>
     <loc>http://localhost:1313/portfolio/experience/rit_1/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/experience/seocontent-ai/</loc>
@@ -52,6 +56,8 @@
   </url><url>
     <loc>http://localhost:1313/portfolio/experience/edgeforce-solutions/</loc>
   </url><url>
+    <loc>http://localhost:1313/portfolio/projects/fdi-india/</loc>
+  </url><url>
     <loc>http://localhost:1313/portfolio/projects/synthetic-anime-data-generator/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/ai/</loc>
@@ -59,6 +65,12 @@
     <loc>http://localhost:1313/portfolio/tags/ai-infrastructure/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/analytics/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/apache-airflow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/apache-kafka/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/apache-spark/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/api-development/</loc>
   </url><url>
@@ -81,6 +93,8 @@
     <loc>http://localhost:1313/portfolio/tags/business-intelligence/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/cancer-detection/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/cassandra/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/categories/</loc>
   </url><url>
@@ -119,6 +133,8 @@
     <loc>http://localhost:1313/portfolio/tags/data-pipelines/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/data-science/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/data-streaming/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/data-visualization/</loc>
   </url><url>
@@ -184,6 +200,8 @@
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/google-cloud/</loc>
   </url><url>
+    <loc>http://localhost:1313/portfolio/tags/google-play-store/</loc>
+  </url><url>
     <loc>http://localhost:1313/portfolio/tags/groovy/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/grpc/</loc>
@@ -224,6 +242,8 @@
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/machine-learning/</loc>
   </url><url>
+    <loc>http://localhost:1313/portfolio/tags/marketing/</loc>
+  </url><url>
     <loc>http://localhost:1313/portfolio/tags/mask-r-cnn/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/medical-imaging/</loc>
@@ -235,6 +255,8 @@
     <loc>http://localhost:1313/portfolio/tags/microservices/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/mlops/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/mobile-apps/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/model-deployment/</loc>
   </url><url>
@@ -259,6 +281,8 @@
     <loc>http://localhost:1313/portfolio/tags/pandas/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/pickle/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/postgresql/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/predictive-analytics/</loc>
   </url><url>
@@ -286,6 +310,8 @@
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/react-native/</loc>
   </url><url>
+    <loc>http://localhost:1313/portfolio/tags/real-time-processing/</loc>
+  </url><url>
     <loc>http://localhost:1313/portfolio/tags/real-time-systems/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/redshift/</loc>
@@ -303,6 +329,8 @@
     <loc>http://localhost:1313/portfolio/search/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/signal-processing/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/social-media/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/software-engineering/</loc>
   </url><url>
@@ -333,6 +361,10 @@
     <loc>http://localhost:1313/portfolio/tags/time-series/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/transfer-learning/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/twitter-analytics/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/user-engagement/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/vector-databases/</loc>
   </url><url>

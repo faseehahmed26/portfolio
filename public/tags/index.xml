@@ -34,6 +34,33 @@
     </item>
     
     <item>
+      <title>Apache Airflow</title>
+      <link>http://localhost:1313/portfolio/tags/apache-airflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/apache-airflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apache Kafka</title>
+      <link>http://localhost:1313/portfolio/tags/apache-kafka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/apache-kafka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apache Spark</title>
+      <link>http://localhost:1313/portfolio/tags/apache-spark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/apache-spark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>API Development</title>
       <link>http://localhost:1313/portfolio/tags/api-development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -129,6 +156,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/portfolio/tags/cancer-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cassandra</title>
+      <link>http://localhost:1313/portfolio/tags/cassandra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/cassandra/</guid>
       <description></description>
     </item>
     
@@ -291,6 +327,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/portfolio/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Streaming</title>
+      <link>http://localhost:1313/portfolio/tags/data-streaming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/data-streaming/</guid>
       <description></description>
     </item>
     
@@ -565,6 +610,15 @@
     </item>
     
     <item>
+      <title>Google Play Store</title>
+      <link>http://localhost:1313/portfolio/tags/google-play-store/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/google-play-store/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Groovy</title>
       <link>http://localhost:1313/portfolio/tags/groovy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -745,6 +799,15 @@
     </item>
     
     <item>
+      <title>Marketing</title>
+      <link>http://localhost:1313/portfolio/tags/marketing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mask R-CNN</title>
       <link>http://localhost:1313/portfolio/tags/mask-r-cnn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -795,6 +858,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/portfolio/tags/mlops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile Apps</title>
+      <link>http://localhost:1313/portfolio/tags/mobile-apps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/mobile-apps/</guid>
       <description></description>
     </item>
     
@@ -907,6 +979,15 @@
     </item>
     
     <item>
+      <title>PostgreSQL</title>
+      <link>http://localhost:1313/portfolio/tags/postgresql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/postgresql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Predictive Analytics</title>
       <link>http://localhost:1313/portfolio/tags/predictive-analytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1006,6 +1087,15 @@
     </item>
     
     <item>
+      <title>Real-Time Processing</title>
+      <link>http://localhost:1313/portfolio/tags/real-time-processing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/real-time-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Real-Time Systems</title>
       <link>http://localhost:1313/portfolio/tags/real-time-systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1074,6 +1164,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/portfolio/tags/signal-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Media</title>
+      <link>http://localhost:1313/portfolio/tags/social-media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/social-media/</guid>
       <description></description>
     </item>
     
@@ -1200,6 +1299,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/portfolio/tags/transfer-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter Analytics</title>
+      <link>http://localhost:1313/portfolio/tags/twitter-analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/twitter-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Engagement</title>
+      <link>http://localhost:1313/portfolio/tags/user-engagement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/user-engagement/</guid>
       <description></description>
     </item>
     
