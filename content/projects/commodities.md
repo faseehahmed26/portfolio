@@ -9,8 +9,8 @@ weight: 206
 cover:
    image: "projects/commodity/commod.jpeg"
 --- 
-### 🔗 [GitHub](https://github.com/faseehahmed26/Commodities-Investing.com)
-### 🔗 [Scraper Code](https://github.com/faseehahmed26/Commodities-Investing.com/blob/main/commoditiesScraper.py)
+##### 🔗 [GitHub](https://github.com/faseehahmed26/Commodities-Investing.com)
+##### 🔗 [Scraper Code](https://github.com/faseehahmed26/Commodities-Investing.com/blob/main/commoditiesScraper.py)
 
 ## Description
 

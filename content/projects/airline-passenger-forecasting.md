@@ -10,7 +10,7 @@ cover:
    image: "projects/airline-forecasting/cover.png"
 ---
 
-### 🔗 [GitHub Repository](https://github.com/yourusername/your-repository)
+##### 🔗 [GitHub Repository](https://github.com/faseehahmed26/airline-passenger-forecasting-using-arima-sarima)
 
 ## Overview
 

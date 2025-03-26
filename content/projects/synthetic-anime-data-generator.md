@@ -9,7 +9,7 @@ weight: 401
 cover:
    image: "projects/synthetic-anime-data-generator/download.png"
 --- 
-### 🔗 [GitHub](https://github.com/faseeh/anime-gan-generator)
+### 🔗 [GitHub](https://github.com/faseehahmed26/GANs/tree/main/GAN_ANIME_DS)
 
 ## Description
 

@@ -9,7 +9,7 @@ weight: 204
 cover:
    image: "projects/car-price-predictor/cover.png"
 --- 
-##### 🔗 [GitHub](https://github.com/faseehahmed26/car-price-predictor)
+##### 🔗 [GitHub](https://github.com/faseehahmed26/Second-Hand-Car-Price)
 ##### 🔗 [Live Demo](https://car-price-predictor-app.herokuapp.com/)
 
 ## Description

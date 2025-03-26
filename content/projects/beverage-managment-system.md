@@ -9,9 +9,9 @@ weight: 202
 cover:
    image: "projects/beverage-system/beverage.jpg"
 --- 
-### 🔗 [GitHub](https://github.com/faseehahmed26/Cold-Drinks-Inventory-System)
-### 🔗 [Live Demo](https://faseehahmed26-cold-drinks-inventory-system-app-g8v3la.streamlit.app/)
-### 🔗 [Dataset](https://www.kaggle.com/datasets/faseeh001/cold-drinks-inventory-dataset)
+##### 🔗 [GitHub](https://github.com/faseehahmed26/Cold-Drinks-Inventory-System)
+##### 🔗 [Live Demo](https://faseehahmed26-cold-drinks-inventory-system-app-g8v3la.streamlit.app/)
+##### 🔗 [Dataset](https://www.kaggle.com/datasets/faseeh001/cold-drinks-inventory-dataset)
 
 ## Description
 

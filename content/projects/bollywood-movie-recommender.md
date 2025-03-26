@@ -10,6 +10,7 @@ cover:
    image: "projects/movie-recommender-system/cover.png"
 ---
 
+##### 🔗 [GitHub Repository](https://github.com/faseehahmed26/Movie-Recommender-System)
 
 ### Description
 
