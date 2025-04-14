@@ -619,6 +619,15 @@
     </item>
     
     <item>
+      <title>GPT</title>
+      <link>http://localhost:1313/portfolio/tags/gpt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/gpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Groovy</title>
       <link>http://localhost:1313/portfolio/tags/groovy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -948,6 +957,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/portfolio/tags/ocr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenAI</title>
+      <link>http://localhost:1313/portfolio/tags/openai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/tags/openai/</guid>
       <description></description>
     </item>
     

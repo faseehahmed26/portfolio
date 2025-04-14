@@ -1,5 +1,5 @@
 ---
-title: "Data Scientist Intern"
+title: "Data Scientist"
 description: "Digital Clinics Research and Services | Hyderabad, India"
 dateString: Nov 2021 - Dec 2022
 draft: false

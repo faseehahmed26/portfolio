@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>NutriPedia - Food Recognition &amp; Calorie Estimation | Faseeh Ahmed Mohammad</title>
-<meta name="keywords" content="Computer Vision, Deep Learning, Inception-V3, Mask R-CNN, Food Recognition, Nutrition, Google Cloud, TensorFlow, PyTorch, SQL">
+<meta name="keywords" content="Computer Vision, Deep Learning, Inception-V3, Mask R-CNN, Food Recognition, Nutrition, Google Cloud, TensorFlow, PyTorch, SQL, OpenAI, GPT">
 <meta name="description" content="An AI-powered food recognition system with calorie estimation">
 <meta name="author" content="">
 <link rel="canonical" href="http://localhost:1313/portfolio/projects/nutripedia/">
@@ -99,10 +99,10 @@
   "name": "NutriPedia - Food Recognition \u0026 Calorie Estimation",
   "description": "An AI-powered food recognition system with calorie estimation",
   "keywords": [
-    "Computer Vision", "Deep Learning", "Inception-V3", "Mask R-CNN", "Food Recognition", "Nutrition", "Google Cloud", "TensorFlow", "PyTorch", "SQL"
+    "Computer Vision", "Deep Learning", "Inception-V3", "Mask R-CNN", "Food Recognition", "Nutrition", "Google Cloud", "TensorFlow", "PyTorch", "SQL", "OpenAI", "GPT"
   ],
-  "articleBody": "🔗 GitHub Description NutriPedia is an advanced food recognition and nutrition tracking platform that helps users maintain healthier eating habits. The system uses deep learning to identify food items from images, calculate portion sizes, and provide detailed nutritional information including calories, macronutrients, and vitamins.\nI implemented a hybrid architecture combining Inception-V3 and Mask R-CNN models to achieve superior food classification accuracy. The Inception-V3 model, chosen for its computational efficiency (replacing 5×5 convolutions with two 3×3 convolutions reduced computation cost by 33%), achieved 93.7% accuracy on the FOOD-101 dataset. The Mask R-CNN component enables precise food item segmentation, allowing for accurate portion size estimation.\nKey technical features include:\nA comprehensive data pipeline that stores images in Google Cloud Storage and manages metadata in SQL databases Implementation of a “FlyWheel” concept where user contributions continuously improve model accuracy Automated calorie estimation based on food type identification and estimated portion sizes Cloud-based architecture designed for scalability with thousands of food items This project addresses the growing demand for automated food recognition systems as people become more health-conscious and seek tools to support balanced diets and prevent disordered eating. The system currently recognizes and analyzes 6 food categories with plans to expand to a more comprehensive database.\n",
-  "wordCount" : "203",
+  "articleBody": "🔗 GitHub Description NutriPedia is a cutting-edge multimodal AI platform designed to empower users with smarter food recognition and detailed nutrition tracking, helping them make informed dietary choices effortlessly. By simply uploading a picture of a meal, users receive an accurate breakdown of portion size, caloric content, macronutrients, and vitamins—instantly and intelligently.\n🔍 Core Technology The system leverages a hybrid deep learning architecture combining Inception-V3 and Mask R-CNN to deliver high-precision food classification and segmentation.\nInception-V3: Known for its computational efficiency, it replaces traditional 5×5 convolutions with two 3×3 layers, reducing computational complexity by 33%. It achieves 93.7% classification accuracy on the FOOD-101 dataset. Mask R-CNN: Used for precise segmentation of individual food items, enabling accurate portion size estimation—a key factor for real-world calorie computation. ⚙️ Backend \u0026 Architecture NutriPedia includes a robust cloud-based infrastructure:\n🗂️ Google Cloud Storage for image storage 🧠 SQL databases for managing metadata and nutrition information 🔄 Flywheel Learning Mechanism: A self-reinforcing loop where user interactions continuously improve model accuracy over time 📊 Key Features Automated calorie estimation based on food type and portion size Seamless integration of computer vision with NLP via GPT-3.5 for natural, user-friendly summaries Scalable architecture designed to support thousands of food categories Currently supports 6 core food categories, with plans for broader dataset expansion 💬 Example Output (via GPT-3.5) “Your meal contains roughly 400 calories, with a healthy balance of carbohydrates and fiber. It’s a great post-workout option to restore energy levels and support digestion.”\n🎯 Real-World Impact NutriPedia addresses the growing global need for tools that support healthier lifestyles. As health awareness rises, so does the demand for smart, automated nutrition tracking. NutriPedia is poised to become a valuable companion for individuals aiming to monitor diet, prevent disordered eating, and maintain balanced nutrition—one photo at a time.\n",
+  "wordCount" : "298",
   "inLanguage": "en",
   "image":"http://localhost:1313/portfolio/projects/nutripedia/system-design.jpg","datePublished": "0001-01-01T00:00:00Z",
   "dateModified": "0001-01-01T00:00:00Z",
@@ -218,18 +218,34 @@
 <figure class="entry-cover"><img loading="lazy" src="http://localhost:1313/portfolio/projects/nutripedia/system-design.jpg" alt="">
         
 </figure>
-  <div class="post-content"><h3 id="-github">🔗 <a href="https://github.com/faseehahmed26/nutripedia">GitHub</a><a hidden class="anchor" aria-hidden="true" href="#-github">#</a></h3>
+  <div class="post-content"><h5 id="-github">🔗 <a href="https://github.com/faseehahmed26/nutripedia">GitHub</a><a hidden class="anchor" aria-hidden="true" href="#-github">#</a></h5>
 <h2 id="description">Description<a hidden class="anchor" aria-hidden="true" href="#description">#</a></h2>
-<p>NutriPedia is an advanced food recognition and nutrition tracking platform that helps users maintain healthier eating habits. The system uses deep learning to identify food items from images, calculate portion sizes, and provide detailed nutritional information including calories, macronutrients, and vitamins.</p>
-<p>I implemented a hybrid architecture combining Inception-V3 and Mask R-CNN models to achieve superior food classification accuracy. The Inception-V3 model, chosen for its computational efficiency (replacing 5×5 convolutions with two 3×3 convolutions reduced computation cost by 33%), achieved 93.7% accuracy on the FOOD-101 dataset. The Mask R-CNN component enables precise food item segmentation, allowing for accurate portion size estimation.</p>
-<p>Key technical features include:</p>
+<p><strong>NutriPedia</strong> is a cutting-edge multimodal AI platform designed to empower users with smarter food recognition and detailed nutrition tracking, helping them make informed dietary choices effortlessly. By simply uploading a picture of a meal, users receive an accurate breakdown of portion size, caloric content, macronutrients, and vitamins—instantly and intelligently.</p>
+<h4 id="-core-technology">🔍 Core Technology<a hidden class="anchor" aria-hidden="true" href="#-core-technology">#</a></h4>
+<p>The system leverages a hybrid deep learning architecture combining <strong>Inception-V3</strong> and <strong>Mask R-CNN</strong> to deliver high-precision food classification and segmentation.</p>
 <ul>
-<li>A comprehensive data pipeline that stores images in Google Cloud Storage and manages metadata in SQL databases</li>
-<li>Implementation of a &ldquo;FlyWheel&rdquo; concept where user contributions continuously improve model accuracy</li>
-<li>Automated calorie estimation based on food type identification and estimated portion sizes</li>
-<li>Cloud-based architecture designed for scalability with thousands of food items</li>
+<li><strong>Inception-V3</strong>: Known for its computational efficiency, it replaces traditional 5×5 convolutions with two 3×3 layers, reducing computational complexity by 33%. It achieves <strong>93.7% classification accuracy</strong> on the FOOD-101 dataset.</li>
+<li><strong>Mask R-CNN</strong>: Used for precise segmentation of individual food items, enabling accurate <strong>portion size estimation</strong>—a key factor for real-world calorie computation.</li>
 </ul>
-<p>This project addresses the growing demand for automated food recognition systems as people become more health-conscious and seek tools to support balanced diets and prevent disordered eating. The system currently recognizes and analyzes 6 food categories with plans to expand to a more comprehensive database.</p>
+<h4 id="-backend--architecture">⚙️ Backend &amp; Architecture<a hidden class="anchor" aria-hidden="true" href="#-backend--architecture">#</a></h4>
+<p>NutriPedia includes a robust cloud-based infrastructure:</p>
+<ul>
+<li>🗂️ <strong>Google Cloud Storage</strong> for image storage</li>
+<li>🧠 <strong>SQL databases</strong> for managing metadata and nutrition information</li>
+<li>🔄 <strong>Flywheel Learning Mechanism</strong>: A self-reinforcing loop where user interactions continuously improve model accuracy over time</li>
+</ul>
+<h4 id="-key-features">📊 Key Features<a hidden class="anchor" aria-hidden="true" href="#-key-features">#</a></h4>
+<ul>
+<li>Automated calorie estimation based on food type and portion size</li>
+<li>Seamless integration of computer vision with NLP via GPT-3.5 for natural, user-friendly summaries</li>
+<li>Scalable architecture designed to support thousands of food categories</li>
+<li>Currently supports <strong>6 core food categories</strong>, with plans for broader dataset expansion</li>
+</ul>
+<h4 id="-example-output-via-gpt-35">💬 Example Output (via GPT-3.5)<a hidden class="anchor" aria-hidden="true" href="#-example-output-via-gpt-35">#</a></h4>
+<blockquote>
+<p>“Your meal contains roughly 400 calories, with a healthy balance of carbohydrates and fiber. It’s a great post-workout option to restore energy levels and support digestion.”</p></blockquote>
+<h4 id="-real-world-impact">🎯 Real-World Impact<a hidden class="anchor" aria-hidden="true" href="#-real-world-impact">#</a></h4>
+<p>NutriPedia addresses the growing global need for tools that support healthier lifestyles. As health awareness rises, so does the demand for smart, automated nutrition tracking. NutriPedia is poised to become a valuable companion for individuals aiming to monitor diet, prevent disordered eating, and maintain balanced nutrition—one photo at a time.</p>
 
 
   </div>
@@ -246,6 +262,8 @@
       <li><a href="http://localhost:1313/portfolio/tags/tensorflow/">TensorFlow</a></li>
       <li><a href="http://localhost:1313/portfolio/tags/pytorch/">PyTorch</a></li>
       <li><a href="http://localhost:1313/portfolio/tags/sql/">SQL</a></li>
+      <li><a href="http://localhost:1313/portfolio/tags/openai/">OpenAI</a></li>
+      <li><a href="http://localhost:1313/portfolio/tags/gpt/">GPT</a></li>
     </ul>
   </footer>
 </article>

@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/portfolio/projects/kafkaspark/</loc>
+  </url><url>
     <loc>http://localhost:1313/portfolio/projects/prompt-manager/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/projects/telco-customer-churn/</loc>
@@ -35,8 +37,6 @@
     <loc>http://localhost:1313/portfolio/projects/bollywood-movie-recommender/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/projects/flight-price-predictor/</loc>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/projects/kafkaspark/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/experience/rit_1/</loc>
   </url><url>
@@ -202,6 +202,8 @@
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/google-play-store/</loc>
   </url><url>
+    <loc>http://localhost:1313/portfolio/tags/gpt/</loc>
+  </url><url>
     <loc>http://localhost:1313/portfolio/tags/groovy/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/grpc/</loc>
@@ -275,6 +277,8 @@
     <loc>http://localhost:1313/portfolio/tags/object-detection/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/ocr/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/openai/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/opencv/</loc>
   </url><url>
