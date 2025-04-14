@@ -13,35 +13,35 @@ cover:
 
 ## Description
 
+**NutriPedia** is a smart AI-driven platform designed to help users make healthier eating choices by identifying fruits and vegetables from images and providing detailed nutritional information. The system leverages a combination of computer vision and natural language processing to make dietary awareness accessible, engaging, and personalized.
 
-**NutriPedia** is a cutting-edge multimodal AI platform designed to empower users with smarter food recognition and detailed nutrition tracking, helping them make informed dietary choices effortlessly. By simply uploading a picture of a meal, users receive an accurate breakdown of portion size, caloric content, macronutrients, and vitamins—instantly and intelligently.
+##### 🔍 Core Technology
 
-#### 🔍 Core Technology
+At the heart of NutriPedia is the **Inception-V3** Convolutional Neural Network, a state-of-the-art model known for its speed and accuracy in image classification tasks. It replaces traditional 5×5 convolutions with two 3×3 convolutions, reducing computational cost by **33%**, and delivering high performance on food image datasets.
 
-The system leverages a hybrid deep learning architecture combining **Inception-V3** and **Mask R-CNN** to deliver high-precision food classification and segmentation.
+- 📸 **Inception-V3**: Used to classify fruit and vegetable images captured by the user
+- 📚 **Fruits and Vegetables Nutritional Database**: Stores detailed nutrition profiles such as calories, sugar, fat, water content, potassium, sodium, and vitamins for each identified item
+- 🧠 **GPT-3.5**: Transforms raw nutrition data into user-friendly summaries and dietary suggestions
 
-- **Inception-V3**: Known for its computational efficiency, it replaces traditional 5×5 convolutions with two 3×3 layers, reducing computational complexity by 33%. It achieves **93.7% classification accuracy** on the FOOD-101 dataset.
-- **Mask R-CNN**: Used for precise segmentation of individual food items, enabling accurate **portion size estimation**—a key factor for real-world calorie computation.
+##### ⚙️ How It Works
 
-#### ⚙️ Backend & Architecture
+1. **User uploads or captures an image** of a fruit or vegetable.
+2. The **Inception-V3 model** classifies the item with high precision.
+3. The system retrieves nutrition values for the identified item from a curated database.
+4. **GPT-3.5** then frames this data into a **natural, conversational summary** that educates the user on the benefits and composition of that food item.
 
-NutriPedia includes a robust cloud-based infrastructure:
+##### 💬 Example Output
 
-- 🗂️ **Google Cloud Storage** for image storage  
-- 🧠 **SQL databases** for managing metadata and nutrition information  
-- 🔄 **Flywheel Learning Mechanism**: A self-reinforcing loop where user interactions continuously improve model accuracy over time
+> “The banana you scanned contains around 105 calories and is rich in potassium and vitamin B6. It’s a great choice for an energy boost and supports heart and muscle function.”
 
-#### 📊 Key Features
+##### 🌱 Key Features
 
-- Automated calorie estimation based on food type and portion size
-- Seamless integration of computer vision with NLP via GPT-3.5 for natural, user-friendly summaries
-- Scalable architecture designed to support thousands of food categories
-- Currently supports **6 core food categories**, with plans for broader dataset expansion
+- High-accuracy fruit & vegetable classification
+- Instant nutritional breakdown (calories, sugar, potassium, water, etc.)
+- GPT-3.5-powered dietary summaries that are easy to understand
+- User-friendly interface designed to promote healthier food habits
+- Scalable architecture for future database expansion
 
-#### 💬 Example Output (via GPT-3.5)
+##### 🎯 Purpose & Impact
 
-> “Your meal contains roughly 400 calories, with a healthy balance of carbohydrates and fiber. It’s a great post-workout option to restore energy levels and support digestion.”
-
-#### 🎯 Real-World Impact
-
-NutriPedia addresses the growing global need for tools that support healthier lifestyles. As health awareness rises, so does the demand for smart, automated nutrition tracking. NutriPedia is poised to become a valuable companion for individuals aiming to monitor diet, prevent disordered eating, and maintain balanced nutrition—one photo at a time.
+NutriPedia meets the increasing demand for health-conscious tools that promote balanced diets. By combining deep learning and conversational AI, it empowers users to understand what they eat, encouraging informed choices and healthier living through a simple photo.
