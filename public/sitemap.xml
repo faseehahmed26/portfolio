@@ -20,6 +20,8 @@
   </url><url>
     <loc>http://localhost:1313/portfolio/projects/beverage-managment-system/</loc>
   </url><url>
+    <loc>http://localhost:1313/portfolio/projects/banking-investment-portfolio-dynamics/</loc>
+  </url><url>
     <loc>http://localhost:1313/portfolio/projects/nutripedia/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/projects/second-hand-car/</loc>
@@ -86,6 +88,8 @@
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/aws/</loc>
   </url><url>
+    <loc>http://localhost:1313/portfolio/tags/banking-regulation/</loc>
+  </url><url>
     <loc>http://localhost:1313/portfolio/tags/beautifulsoup/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/bert/</loc>
@@ -93,6 +97,8 @@
     <loc>http://localhost:1313/portfolio/tags/business-intelligence/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/cancer-detection/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/capital-ratios/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/cassandra/</loc>
   </url><url>
@@ -186,6 +192,8 @@
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/finance/</loc>
   </url><url>
+    <loc>http://localhost:1313/portfolio/tags/financial-analytics/</loc>
+  </url><url>
     <loc>http://localhost:1313/portfolio/tags/fine-tuning/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/flask/</loc>
@@ -227,6 +235,8 @@
     <loc>http://localhost:1313/portfolio/tags/inception-v3/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/inventory-management/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/investment-trends/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/javascript/</loc>
   </url><url>
@@ -286,6 +296,8 @@
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/pickle/</loc>
   </url><url>
+    <loc>http://localhost:1313/portfolio/tags/portfolio-analysis/</loc>
+  </url><url>
     <loc>http://localhost:1313/portfolio/tags/postgresql/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/predictive-analytics/</loc>
@@ -322,6 +334,8 @@
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/regression/</loc>
   </url><url>
+    <loc>http://localhost:1313/portfolio/tags/regulatory-impact/</loc>
+  </url><url>
     <loc>http://localhost:1313/portfolio/tags/ridge-regression/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/sarima/</loc>
@@ -347,6 +361,8 @@
     <loc>http://localhost:1313/portfolio/tags/sqlite/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/ssd-mobilenet/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/statistical-analysis/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/statistical-modeling/</loc>
   </url><url>

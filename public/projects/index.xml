@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://localhost:1313/portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Banking Investment Portfolio Dynamics: 2009-2018 Regulatory Impact Study</title>
+      <link>http://localhost:1313/portfolio/projects/banking-investment-portfolio-dynamics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/projects/banking-investment-portfolio-dynamics/</guid>
+      <description>Data-driven analysis of regulatory impact on bank investment strategies</description>
+    </item>
+    
+    <item>
       <title>KafkaSpark: Containerized User Data Processing Engine</title>
       <link>http://localhost:1313/portfolio/projects/kafkaspark/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -103,6 +112,15 @@
       
       <guid>http://localhost:1313/portfolio/projects/second-hand-car/</guid>
       <description>A machine learning application for used car price estimation</description>
+    </item>
+    
+    <item>
+      <title>Medical Appointment and Patient Record System</title>
+      <link>http://localhost:1313/portfolio/projects/medical-appointment-and-patient-record-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/projects/medical-appointment-and-patient-record-system/</guid>
+      <description>Comprehensive healthcare database system for appointment management and patient records</description>
     </item>
     
     <item>
